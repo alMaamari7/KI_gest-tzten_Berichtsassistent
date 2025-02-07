@@ -1,0 +1,127 @@
+Ziel
+Identifiziere und bewerte ESG-Risiken und Chancen entlang der Wertschöpfungskette, indem du Impact und Wahrscheinlichkeit analysierst.
+
+Falls nicht genügend Daten für eine vollständige Bewertung vorhanden sind, markiere das Thema als „weitere Analyse erforderlich“, anstatt eine Annahme zu treffen.
+
+2️⃣ Eingabedaten
+✅ Wertschöpfungskette-Mapping-Tabelle:
+
+Was: Eine strukturierte Tabelle mit allen Prozessen und Aktivitäten entlang der Wertschöpfungskette (Upstream, interne Prozesse, Downstream).
+Warum: Zeigt, welche ESG-Risiken und Chancen entlang der Wertschöpfungskette auftreten.
+✅ Stakeholderanliegen-Bewertungstabelle:
+
+Was: Eine Tabelle mit Stakeholder-Anliegen, die nach Relevanz (hoch, mittel, gering) bewertet wurden.
+Warum: Hilft zu bestimmen, welche ESG-Themen besonders relevant sind und welche gesellschaftlichen Erwartungen bestehen.
+✅ Muster für Umwelt, Soziales, Governance & Politik:
+
+Was: Strukturierte Dokumente mit typischen ESG-Risiken und Chancen für verschiedene Branchen.
+Warum: Dienen als Referenz, um bestehende Risiken und Chancen mit bekannten ESG-Themen zu vergleichen.
+
+ Themenliste mit ESG-Kategorien:
+Was: Eine Tabelle mit allen relevanten Themen und deren Zuordnung zu Umwelt (E), Soziales (S) oder Governance (G).
+Warum: Erlaubt eine direkte Zuordnung der Risiken und Chancen zu den ESG-Kategorien.
+
+✅ Nutzerdaten:
+Was: Unternehmensberichte, Nachhaltigkeitsdokumente, ESG-Daten.
+Warum: Ergänzen die Analyse mit individuellen Unternehmensdaten.
+
+
+Falls in den Mustern oder Stakeholderdaten keine direkten Informationen vorhanden sind, markiere das Thema als „weitere Analyse erforderlich“, statt eine Annahme vorzunehmen.
+3️⃣ Anforderungen
+1️⃣ Kombiniere die Wertschöpfungskette-Mapping-Tabelle, Stakeholderanliegen, Muster und Nutzerdaten, um ESG-Risiken und Chancen präzise zu bewerten.
+2️⃣ Falls eine Bewertung nicht eindeutig möglich ist, prüfe alternative Quellen.
+3️⃣ Falls keine belastbaren Informationen vorhanden sind, treffe keine Annahmen, sondern markiere das Thema zur weiteren Analyse.
+4️⃣ Dokumentiere die Ergebnisse in einem nachvollziehbaren und strukturierten Format.
+
+4️⃣ Schritte
+🔹  Schritt 1: Identifikation von ESG-Risiken und Chancen
+✅ Was tun: Identifiziere potenzielle ESG-Risiken und Chancen in den Bereichen Upstream, interne Prozesse und Downstream.
+✅ Wie:
+
+Nutze die Wertschöpfungsketten-Tabelle, um zu erkennen, wo Risiken oder Chancen auftreten könnten.
+Nutze die Stakeholder-Bewertung, um zu bestimmen, welche Themen priorisiert werden müssen.
+Nutze die Themenliste mit ESG-Kategorien, um das Risiko oder die Chance ein passendes Tehema und  Umwelt (E), Soziales (S) oder Governance (G) zuzuordnen.
+🔹 Schritt 2: Bewertung von Impact & Wahrscheinlichkeit
+✅ Was tun: Bewerte jedes Risiko und jede Chance basierend auf Impact und Wahrscheinlichkeit.
+✅ Wie:
+
+Falls das Thema in den Mustern oder Nutzerdaten bewertet wurde, übernehme die Werte.
+Falls nur qualitative Angaben existieren, leite die Bewertung aus vergleichbaren Branchenwerten ab.
+Falls keine klare Bewertung möglich ist, markiere das Thema als „weitere Analyse erforderlich“.
+🔹 Schritt 3: Ergänzung durch alternative Quellen & Lückenanalyse
+✅ Falls ein Risiko oder eine Chance nicht eindeutig in den Mustern oder Stakeholderdaten identifiziert wurde:
+
+Prüfe alternative Datenquellen aus Nutzerdaten oder externen Berichten.
+Falls keine relevanten Informationen gefunden werden, dokumentiere, welche Daten fehlen.
+
+5️⃣ Bewertungskriterien und Skalen
+Falls eine Bewertung möglich ist, berechne die Gesamtbewertung anhand der folgenden Kriterien:
+
+Kriterium	Bedeutung	Skala
+Impact (60%)	Wie stark beeinflusst das Risiko oder die Chance Umwelt, Gesellschaft oder das Unternehmen?	Hoch (3): Globale Auswirkungen, irreversible Schäden (z. B. Artensterben, CO₂-Ausstoß).
+Mittel (2): Regionale Auswirkungen, teilweise kritisch, aber lösbar (z. B. Energieverbrauch, begrenzte soziale Risiken).
+Gering (1): Lokale, begrenzte Auswirkungen mit geringer Intensität.
+Wahrscheinlichkeit (40%)	Wie wahrscheinlich ist es, dass das Risiko oder die Chance eintritt?	Hoch (3): >75 % Wahrscheinlichkeit (z. B. regelmäßig beobachtete Trends).
+Mittel (2): 25–75 % Wahrscheinlichkeit.
+Gering (1): <25 % Wahrscheinlichkeit (z. B. rein hypothetische Risiken).
+
+6️⃣ Berechnung der ESG-Gesamtbewertung
+Falls alle Daten vorhanden sind, berechne die Bewertung mit folgender Formel:
+Gesamtbewertung=(Impact×0,6)+(Wahrscheinlichkeit×0,4)
+Priorisierung:
+Hoch: Gesamtbewertung ≥ 2,5.
+Mittel: Gesamtbewertung 1,5–2,4.
+Gering: Gesamtbewertung < 1,5.
+Falls keine vollständige Bewertung möglich ist, dokumentiere das Thema als „weitere Analyse erforderlich“ und liste die fehlenden Daten auf.
+
+
+
+
+####Wichtige Hinweise:
+Die Antwort müssen nur die zwei Tabellen zeigen, auch wenn sie leer sind
+Die Antwort enthält nur die Tabellen.
+Keine weiteren Kommentare oder Erklärungen hinzufügen.
+Einheitlichkeit der Tabelle sicherstellen.
+
+####Hinweis: Deine Antworten werden durch Spezialisten bewertet, um ihre Vollständigkeit, Präzision und Formatierung zu prüfen.
+Um deine Antwortqualität zu verbessern, kannst du auf die Feedback-Datei mit alten Feedbacks zugreifen:
+Diese Datei enthält Bewertungen, Kommentare und Vorschläge zur Verbesserung früherer Antworten. Bitte berücksichtige diese Feedbacks, um typische Fehler zu vermeiden und deine Antwort bestmöglich an die Anforderungen anzupassen.liese die ersten six Feeddback.
+Nutze das Feedback als Leitfaden, um:
+1. Unvollständigkeiten in deinen Antworten zu vermeiden.
+2. Präzise und nachvollziehbare Antworten zu liefern.
+3. Das vorgegebene Format exakt einzuhalten.
+
+Beachte: Wenn du auf das Feedback zugreifst, verweise nicht direkt darauf, sondern nutze die enthaltenen Informationen, um deine Antwort zu optimieren.
+
+Formatvorgabe für das Ergebnis
+
+Falls eine vollständige Bewertung möglich ist:
+
+| Bereich           | Thema                 | ESG-Kategorie | Risikotyp                   | Chancen                                        | Impact | Wahrscheinlichkeit | Gesamtbewertung | Priorität |
+|------------------ |-----------------------|-------------- |---------------------------- |----------------------------------------------- |--------|------------------- |---------------- |-----------|
+| Upstream          | Ressourcenverbrauch   | Umwelt (E)    | Ressourcenknappheit         | Nutzung recycelter Materialien                 | 3      | 2                  | 2,6             | Hoch      |
+
+
+
+Falls eine vollständige Bewertung nicht möglich ist, dokumentiere es so:
+
+| Bereich           | Thema                          | Fehlende Daten                     | Status                       |
+|------------------|------------------------------|-----------------------------------|-----------------------------|
+|                  |                              |                                                                  |
+
+
+
+8️⃣ Kontrollfragen
+✅ Sind alle ESG-Risiken & Chancen entlang der Wertschöpfungskette identifiziert?
+✅ Falls eine Bewertung fehlt, wurden alternative Datenquellen geprüft?
+✅ Falls keine Bewertung möglich ist, wurde das Thema zur weiteren Analyse markiert, statt eine Annahme zu treffen?
+✅ Ist die Bewertung konsistent mit den Kriterien für Impact und Wahrscheinlichkeit?
+
+
+
+Wertschöpfungskette-Mapping-Tabelle: <Mapping-Tabelle>
+Relevanz-Muster: <Muster>
+Nutzerdaten: <Daten>
+Stakeholder-Tabelle: <Stakeholder>
+ESG-Themen-Liste: <Themen-Liste>
+Feedback: <Feedback>

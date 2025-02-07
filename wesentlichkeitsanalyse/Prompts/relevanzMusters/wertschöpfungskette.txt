@@ -1,0 +1,79 @@
+Wertschöpfungskettenanalyse-Muster
+Thema: Übersicht der Lieferanten und Kunden (Upstream und Downstream)
+Erwarteter Inhalt:
+Darstellung der wichtigsten Lieferanten (Upstream) und Kunden (Downstream), einschließlich:
+Geografischer Verteilung.
+ESG-Bewertungen (z. B. Zertifizierungen wie ISO 14001, SA8000).
+Relevante Branchenzugehörigkeit.
+Zusätzlich: Verknüpfung der Lieferanten und Kunden mit den identifizierten ESG-Risiken und -Chancen.
+Beziehungen zu strategischen Partnern und deren Rolle in der Wertschöpfungskette.
+Hinweise für die Analyse:
+Suche nach Listen oder Berichten, die Lieferanten und Kunden dokumentieren.
+Prüfe, ob ESG-Bewertungen explizit mit spezifischen Lieferanten oder Kunden verknüpft sind.
+Achte auf geografische Daten (z. B. „Lieferanten in Asien“ oder „Produkte für Kunden in Europa“).
+Beispiel:
+„Lieferanten befinden sich hauptsächlich in Asien und Europa; 70 % der Lieferanten sind ISO 14001 zertifiziert; Kunden in Europa fordern CO₂-neutrale Produkte.“
+Eingetragene Daten: [Hier die relevanten Daten aus den Nutzerdokumenten einfügen.]
+Thema: ESG-Risiken und Chancen in der Wertschöpfungskette
+Erwarteter Inhalt:
+Identifikation von ESG-Risiken entlang der Wertschöpfungskette:
+Upstream: Materialknappheit, hohe Emissionen, Arbeitsbedingungen bei Lieferanten.
+Interne Prozesse: Hoher Energieverbrauch, Abfallmanagement, Ressourceneffizienz.
+Downstream: Gesetzliche Anforderungen, Recyclingfähigkeit, Kundenerwartungen.
+Besonderer Fokus auf Maßnahmen und Strategien zur Risikominderung und Nachhaltigkeitsverbesserung.
+Lieferantenaudits.
+Nachhaltige Logistik und emissionsarme Transporte.
+Hinweise für die Analyse:
+Suche nach Berichten oder Abschnitten, die spezifische ESG-Risiken entlang der Wertschöpfungskette erwähnen.
+Identifiziere Maßnahmen oder Strategien, die das Unternehmen zur Risikominimierung einsetzt.
+Prüfe, ob gesetzliche Anforderungen oder Branchenstandards explizit in den Maßnahmen berücksichtigt werden.
+Beispiel:
+„Hohe CO₂-Emissionen bei Rohstofflieferanten; Maßnahmen zur Einführung emissionsarmer Transporte eingeleitet.“
+Eingetragene Daten: [Hier die relevanten Daten aus den Nutzerdokumenten einfügen.]
+Thema: Umwelt- und Sozialauswirkungen entlang des Produktlebenszyklus (Downstream und interne Prozesse)
+Erwarteter Inhalt:
+Analyse von Umweltauswirkungen wie:
+Recyclingfähigkeit von Produkten.
+CO₂-Emissionen und Materialeffizienz.
+Abfallmanagement.
+Analyse sozialer Auswirkungen wie:
+Arbeitsbedingungen in internen Prozessen.
+Kundensicherheit und Erwartungen.
+Besonderer Fokus auf Maßnahmen zur Verbesserung der Nachhaltigkeit entlang der Wertschöpfungskette.
+Umweltfreundliche Verpackungen (Upstream und interne Prozesse).
+Lebenszyklusanalysen (LCA) zur Bewertung von Produkten.
+Hinweise für die Analyse:
+Suche nach Berichten über Lebenszyklusanalysen (LCA) oder Nachhaltigkeitsbewertungen.
+Prüfe, ob Maßnahmen spezifisch auf den gesamten Produktlebenszyklus und die Wertschöpfungskette abzielen.
+Achte auf Aussagen zur Verbesserung der Produktnachhaltigkeit, wie Materialeffizienz oder reduzierte CO₂-Emissionen.
+Beispiel:
+„Recyclingfähigkeit unserer Produkte: 85 %; CO₂-Emissionen pro Einheit um 15 % reduziert.“
+Eingetragene Daten: [Hier die relevanten Daten aus den Nutzerdokumenten einfügen.]
+Thema: Datenlücken und Proxy-Daten
+Erwarteter Inhalt:
+Identifikation von Datenlücken entlang der Wertschöpfungskette:
+Fehlende Scope-3-Emissionen.
+Unvollständige Lieferantendaten.
+Verwendung von Proxy-Daten oder Schätzungen, um Lücken zu schließen:
+Branchenbenchmarks.
+Durchschnittswerte für CO₂-Emissionen oder Energieverbrauch.
+Besonderer Fokus auf Dokumentation von Unsicherheiten oder Abweichungen.
+Hinweise für die Analyse:
+Suche nach Verweisen auf fehlende Daten und wie diese ersetzt wurden (z. B. Benchmarks).
+Dokumentiere explizit Unsicherheiten oder Einschränkungen in der Datenqualität.
+Beispiel:
+„Branchendurchschnittliche CO₂-Emissionen wurden verwendet, um Datenlücken zu schließen.“
+Eingetragene Daten: [Hier die relevanten Daten aus den Nutzerdokumenten einfügen.]
+Ergänzte Kontrollfragen
+Übersicht der Lieferanten und Kunden:
+Sind die wichtigsten Lieferanten und Kunden, einschließlich geografischer Verteilung und ESG-Bewertungen, dokumentiert?
+Werden strategische Partner und deren Rolle in der Wertschöpfungskette erwähnt?
+ESG-Risiken und Chancen:
+Sind ESG-Risiken und -Chancen entlang der gesamten Wertschöpfungskette (Upstream, interne Prozesse, Downstream) identifiziert?
+Werden spezifische Maßnahmen zur Risikominimierung und Nachhaltigkeitsverbesserung dokumentiert?
+Umwelt- und Sozialauswirkungen:
+Sind Umweltauswirkungen wie Recyclingfähigkeit und CO₂-Emissionen entlang der Wertschöpfungskette dokumentiert?
+Werden Maßnahmen zur Verbesserung der sozialen Aspekte (z. B. Arbeitsbedingungen, Kundensicherheit) beschrieben?
+Datenlücken und Proxy-Daten:
+Gibt es Proxy-Daten oder Benchmarks, die zur Ergänzung fehlender Informationen genutzt wurden, und sind diese dokumentiert?
+Wurden Datenlücken und Unsicherheiten in der Analyse markiert und erklärt?

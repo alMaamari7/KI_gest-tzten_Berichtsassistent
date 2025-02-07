@@ -1,0 +1,46 @@
+General Requirements
+Thema: Berichtsrahmen
+•	Erwarteter Inhalt:
+Erklärung des angewendeten Berichtsstandards, z. B. ESRS oder CSRD.
+•	Hinweis für dich:
+Suche nach Angaben zu verwendeten Berichtsstandards oder gesetzlichen Rahmenbedingungen.
+Beispiel: „Der Bericht basiert auf den ESRS-Standards gemäß der EU-Richtlinie CSRD.“
+•	Eingetragene Daten:
+[Hier die relevanten Daten aus den Nutzerdokumenten einfügen.]
+________________________________________
+Thema: Doppelte Materialität
+•	Erwarteter Inhalt:
+Definition und Anwendung der Prinzipien der doppelten Materialität (Impact- und finanzielle Materialität).
+•	Hinweis für dich:
+Suche nach Begriffen wie „Impact-Materialität“, „finanzielle Materialität“ oder „wesentliche Themen“.
+Beispiel 1: „Impact-Materialität: Themen mit wesentlichen Auswirkungen auf Umwelt und Gesellschaft.“
+Beispiel 2: „Finanzielle Materialität: Themen mit wesentlichen Auswirkungen auf die finanzielle Performance.“
+•	Eingetragene Daten:
+[Hier die relevanten Daten aus den Nutzerdokumenten einfügen.]
+________________________________________
+Thema: Qualitative Merkmale der Informationen
+•	Erwarteter Inhalt:
+Beschreibung der Merkmale wie Relevanz, Verlässlichkeit, Vergleichbarkeit, Verifizierbarkeit und Verständlichkeit.
+•	Hinweis für dich:
+Suche nach Erwähnungen von Dateneigenschaften wie Konsistenz, Auditierbarkeit oder Vergleichbarkeit.
+Beispiel: „Daten sind konsistent mit den Finanzberichten und durch Audits verifizierbar.“
+•	Eingetragene Daten:
+[Hier die relevanten Daten aus den Nutzerdokumenten einfügen.]
+________________________________________
+Thema: Abdeckung der gesamten Wertschöpfungskette
+•	Erwarteter Inhalt:
+Beschreibung, wie Daten entlang der gesamten Wertschöpfungskette (Upstream- und Downstream-Aktivitäten) berücksichtigt werden.
+•	Hinweis für dich:
+Suche nach Informationen zu Lieferanten, Produktionsprozessen oder Endprodukten.
+Beispiel: „Die Daten umfassen sowohl die Emissionen der Lieferanten als auch die Recyclingfähigkeit der Endprodukte.“
+•	Eingetragene Daten:
+[Hier die relevanten Daten aus den Nutzerdokumenten einfügen.]
+________________________________________
+Kontrollfragen für dich
+1.	Wurde ein Berichtsstandard (z. B. ESRS, CSRD) in den Dokumenten erwähnt?
+2.	Sind Definitionen oder Anwendungen der Prinzipien der doppelten Materialität vorhanden?
+3.	Werden qualitative Merkmale der bereitgestellten Daten beschrieben?
+4.	Gibt es Hinweise auf die Abdeckung der gesamten Wertschöpfungskette?
+
+
+

@@ -1,0 +1,31 @@
+Mitarbeiter,Intern,Direkt
+Führungskräfte,Intern,Direkt
+Kunden,Extern,Direkt
+Lieferanten,Extern,Direkt
+Investoren,Extern,Direkt
+Behörden,Extern,Direkt
+Umwelt,Extern,Indirekt
+Zukünftige Generationen,Extern,Indirekt
+Lokale Gemeinschaften,Extern,Indirekt
+
+
+Mitarbeiter,Sichere Arbeitsbedingungen,Arbeitsrechte & Sicherheit,Soziales (S)
+Mitarbeiter,Faire Löhne,Arbeitsrechte & Sicherheit,Soziales (S)
+Kunden,Nachhaltige Produkte,Nachhaltigkeit & Umweltschutz,Umwelt (E)
+Kunden,Emissionsarme Lieferungen,Nachhaltigkeit & Umweltschutz,Umwelt (E)
+Lieferanten,Transparenz in der Lieferkette,Lieferketten-Compliance,Governance (G)
+Investoren,CO₂-Reduktion,Klimawandel & Umweltschutz,Umwelt (E)
+Behörden,Regulatorische Transparenz,Gesetzgebungskonformität,Governance (G)
+Umwelt,Schutz der Umweltressourcen,Nachhaltigkeit & Umweltschutz,Umwelt (E)
+Zukünftige Generationen,CO₂-Reduktion,Klimawandel & Umweltschutz,Umwelt (E)
+Lokale Gemeinschaften,Langfristige Unternehmensentscheidungen,Nachhaltigkeit & Unternehmensführung,Governance (G)
+
+
+Anliegen,Wahrscheinlichkeit und Schwere,Finanzielle Materialität,Stakeholder-Perspektiven,Strategische Relevanz,Gesamtbewertung,Priorität
+Nachhaltige Produkte,Mittel,Kein relevante Daten,Hoch,Mittel,Kein Gesamtbewertung,Fehlende Daten
+Emissionsarme Lieferungen,Gering,Kein relevante Daten,Mittel,Mittel,Kein Gesamtbewertung,Fehlende Daten
+Transparenz in der Lieferkette,Kein relevante Daten,Mittel,Hoch,Gering,Kein Gesamtbewertung,Fehlende Daten
+CO₂-Reduktion,Kein relevante Daten,Hoch,Gering,Hoch,Kein Gesamtbewertung,Fehlende Daten
+Regulatorische Transparenz,Kein relevante Daten,Gering,Gering,Mittel,Kein Gesamtbewertung,Fehlende Daten
+Schutz der Umweltressourcen,Kein relevante Daten,Gering,Gering,Gering,Kein Gesamtbewertung,Fehlende Daten
+Strengere Menschenrechtsgesetze,Kein relevante Daten,Kein relevante Daten,Kein relevante Daten,Kein relevante Daten,Kein Gesamtbewertung,Fehlende Daten

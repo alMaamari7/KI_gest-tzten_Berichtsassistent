@@ -1,0 +1,23 @@
+
+„Analysiere die Nutzerdaten und fülle die Felder des Relevanz-Musters entsprechend aus. Berücksichtige dabei die spezifischen Anforderungen aus den Tabellen, um die Zuordnung der Daten zu den Kategorien und Unterthemen möglichst präzise vorzunehmen. Falls keine passenden Daten vorhanden sind, lasse das Feld leer und belasse die Hinweise stehen.“
+Nutzerdaten : <Daten>
+
+
+Relevanz-Muster:
+„Das Muster ist wie folgt aufgebaut: <Muster>
+Hinweise:
+
+2 Leere Felder: Wenn keine relevanten Daten gefunden werden, lasse die entsprechenden Felder leer.
+Erwartete Ausgabe:
+Ein ausgefülltes Relevanz-Muster mit den Nutzerdaten , die den jeweiligen Kategorien zugeordnet sind,
+Leere Felder, falls keine passenden Informationen gefunden wurden.“
+*** Achtung ***
+die Felder Erwarteter Inhalt, Hinweise für dich und Zusätzliche Kontrollfragen sind nur für dich. Sie dürfen nicht in die Ausgabe sein
+Ausgabebeispeil:
+"**Environmental-Muster**"
+"Thema: Klimawandelanpassung"
+"Eingetragene Daten:
+ - ABC Corporation plant, bis 2030 klimaneutral zu sein.
+- Biodiversitätsprogramm zur Wiederherstellung von geschädigten Ökosystemen.
+- Kritik von NGOs bezüglich der Transparenz von Umweltmaßnahmen."
+

@@ -1,0 +1,197 @@
+Bewerte die Relevanz der Stakeholder-Anliegen, indem du sie ausschließlich anhand der vorhandenen Relevanzmuster & Nutzerdaten analysierst.
+
+Falls keine relevanten Daten für ein Bewertungskriterium vorliegen, schreibe „Kein relevante Daten“ in das entsprechende Feld.
+Falls ein Anliegen mindestens zwei bewertbare Kriterien hat, berechne eine Teilbewertung.
+Falls weniger als zwei Kriterien bewertbar sind, markiere das Anliegen als „Fehlende Daten“.
+
+📥 Eingabedaten
+✅ Relevanzmuster
+📌 Was: Eine strukturierte Vorlage, die ESG-relevante Anliegen und Herausforderungen beschreibt.
+📌 Warum: Dient als Referenzrahmen, um relevante Themen systematisch zu bewerten.
+
+✅ Nutzerdaten
+📌 Was: Unternehmensberichte, Stakeholder-Kommunikation, Nachhaltigkeitsberichte etc.
+📌 Warum: Enthält spezifische Erwähnungen von ESG-Anliegen und deren Relevanz für das Unternehmen.
+
+✅ Stakeholder-Anliegen-Tabelle
+📌 Was: Eine Übersicht über identifizierte Stakeholder-Anliegen mit zugehörigen ESG-Kategorien.
+📌 Warum: Erlaubt eine gezielte Verknüpfung der Anliegen mit relevanten ESG-Themen und deren Bewertung.
+
+📌 Anforderungen
+1️⃣ Bewerte ausschließlich Anliegen aus der Stakeholder-Anliegen-Tabelle.
+2️⃣ Nutze nur Daten aus den Mustern & Nutzerdaten zur Bewertung – keine Annahmen treffen.
+3️⃣ Falls keine relevanten Daten für ein Kriterium existieren, schreibe „Kein relevante Daten“ in das Feld.
+4️⃣ Falls mindestens zwei Kriterien bewertbar sind, berechne eine Teilbewertung.
+5️⃣ Falls weniger als zwei Kriterien bewertbar sind, markiere das Anliegen als „Fehlende Daten“.
+6️⃣ Dokumentiere die Bewertung in einem strukturierten und nachvollziehbaren Format.
+
+
+Bewertungskritieren:
+Wahrscheinlichkeit und Schwere der Auswirkungen (40 %). Hoch (3), Mittel (2), Gering (1)
+Finanzielle Materialität (30 %). Hoch (3), Mittel (2), Gering (1)
+Stakeholder-Perspektiven (20 %). Hoch (3), Mittel (2), Gering (1)
+Strategische Relevanz (10 %).    Hoch (3), Mittel (2), Gering (1)
+Kriterien und Gewichtungen mit Beispielen
+1 Wahrscheinlichkeit und Schwere der Auswirkungen (40 %)
+Definition: Wie wahrscheinlich ist es, dass das Anliegen eintritt, und wie gravierend wären die Auswirkungen?
+Bewertung:
+Hoch: Das Anliegen ist sehr wahrscheinlich und hat schwerwiegende Auswirkungen.
+Mittel: Das Anliegen ist wahrscheinlich und hat moderate Auswirkungen.
+Gering: Das Anliegen ist weniger wahrscheinlich oder hat geringe Auswirkungen.
+
+Beispiel:
+Anliegen: „CO₂-Emissionen in der Lieferkette.“
+Wahrscheinlichkeit: Hoch (globaler Druck auf Emissionsreduktion).
+Schwere: Hoch (direkte Auswirkungen auf Umwelt und Geschäftsmodell).
+
+2 Finanzielle Materialität (30 %)
+Definition: Hat das Anliegen direkte oder indirekte finanzielle Auswirkungen auf das Unternehmen?
+Bewertung:
+Hoch: Hat wesentliche finanzielle Auswirkungen, z. B. regulatorische Kosten oder Marktrisiken.
+Mittel: Hat moderate finanzielle Auswirkungen, z. B. indirekte Auswirkungen auf Lieferkettenkosten.
+Gering: Hat begrenzte finanzielle Auswirkungen.
+Beispiel:
+Anliegen: „Transparenz in der Lieferkette.“
+Hoch: Investoren und Regulierungsbehörden fordern umfassende Transparenz (wesentliche Marktrisiken).
+3 Stakeholder-Perspektiven (20 %)
+Definition: Wie wichtig ist das Anliegen für relevante Stakeholder (z. B. Arbeitnehmer, Regierungen, NGOs)?
+Bewertung:
+Hoch: Betroffen sind mehrere wichtige Stakeholdergruppen mit starkem Interesse.
+Mittel: Betroffen sind einige Stakeholdergruppen mit mäßigem Interesse.
+Gering: Betroffen ist eine kleine oder spezialisierte Stakeholdergruppe.
+Beispiel:
+Anliegen: „Faire Arbeitsbedingungen.“
+Hoch: Relevant für Arbeitnehmer, Gewerkschaften, NGOs (hoher Druck auf Unternehmen).
+4 Strategische Relevanz (10 %)
+Definition: Ist das Anliegen direkt mit der strategischen Ausrichtung des Unternehmens verbunden?
+Bewertung:
+Hoch: Das Anliegen ist ein klarer Bestandteil der Unternehmensstrategie (z. B. Klimaneutralität bis 2030).
+Mittel: Das Anliegen ist strategisch wichtig, aber nicht zentral.
+Gering: Das Anliegen hat keine klare strategische Relevanz.
+Beispiel:
+Anliegen: „Förderung erneuerbarer Energien.“
+Hoch: Direkt verknüpft mit strategischen Zielen der Energiewende.
+
+
+Schritte zur Relevanzbewertung
+Schritt 1: Suche nach relevanten Daten in den Nutzerdaten und Mustern
+✅ Was tun?
+
+Durchsuche die Nutzerdaten und die Muster gezielt nach Informationen, die für die Bewertung der Anliegen, die in der Stakeholder-Anliegen-Tabelle sind,  erforderlich sind.
+✅ Wie?
+1️⃣ Identifiziere explizite Informationen:
+
+Suche nach direkten Aussagen in Berichten oder Dokumentationen.
+Beispiel: „Die CO₂-Reduktion in der Lieferkette ist ein Ziel bis 2030.“
+→ Dies liefert direkte Daten für die Bewertung der finanziellen Materialität und der strategischen Relevanz.
+2️⃣ Analysiere kontextuelle Hinweise:
+
+Falls kein direkter Hinweis existiert, prüfe verwandte Begriffe und Synonyme.
+Beispiel: „Unser Ziel ist die Dekarbonisierung der Produktion.“
+→ Dies könnte als Hinweis auf CO₂-Reduktion gewertet werden
+Falls keine relevanten Daten in den Mustern oder den Nutzerdaten gefunden werden, markiere das Kriterium als „Kein relevante Daten“.
+
+
+2 Schritte zur Relevanzbewertung
+Schritt 1: Einzelbewertung
+Bewerte die  Anliegen in der Stakeholder-Anliegen-Tabelle anhand der vier Kriterien:
+Weise jeder Bewertung eine Punktzahl zu (z. B. Hoch = 3 Punkte, Mittel = 2 Punkte, Gering = 1 Punkt).
+Berechne die gewichteten Punkte:
+Wahrscheinlichkeit und Schwere: Gewichtung = 40 %.
+Finanzielle Materialität: Gewichtung = 30 %.
+Stakeholder-Perspektiven: Gewichtung = 20 %.
+Strategische Relevanz: Gewichtung = 10 %.
+
+
+
+Schritt 2: Gesamtbewertung berechnen
+Addiere die gewichteten Punkte, um eine Gesamtbewertung zu erhalten.
+Beispiel: Ein Anliegen mit folgenden Bewertungen:
+Wahrscheinlichkeit und Schwere: Hoch (3 Punkte × 40 % = 1,2).
+Finanzielle Materialität: Mittel (2 Punkte × 30 % = 0,6).
+Stakeholder-Perspektiven: Hoch (3 Punkte × 20 % = 0,6).
+Strategische Relevanz: Mittel (2 Punkte × 10 % = 0,2).
+Gesamtbewertung = 3,0 Punkte.
+Berechne die Gesamt-Relevanz basierend auf den Bewertungen der Kriterien:
+Hoch: Mindestens 2 Kriterien mit „Hoch“ bewertet.
+Mittel: Mindestens 2 Kriterien mit „Mittel“ bewertet.
+Gering: Überwiegend „Gering“ bewertet.
+
+Falls mindestens zwei Kriterien bewertbar sind, berechne eine Teilbewertung.
+✅ Falls nur ein oder kein Kriterium bewertbar ist, markiere das Anliegen als „Fehlende Daten“.
+
+
+ Falls nur drei Kriterien bewertbar sind:
+Berechne den Durchschnitt ohne das fehlende Kriterium.
+
+ Falls nur zwei Kriterien bewertbar sind:
+ Berechne die Teilbewertung mit angepasster Gewichtung.
+
+ Falls weniger als zwei Kriterien vorhanden sind:
+ Markiere das Anliegen als „Fehlende Daten“. Falls mindestens zwei Kriterien bewertbar sind, berechne eine Teilbewertung.
+ Falls nur ein oder kein Kriterium bewertbar ist, markiere das Anliegen als „Fehlende Daten“.
+
+ Formel für Gesamtbewertung:
+ Gesamtbewertung = (Wahrscheinlichkeit × 0,4) + (Finanzielle Materialität × 0,3) + (Stakeholder-Perspektiven × 0,2) + (Strategische Relevanz × 0,1)
+
+ Falls nur drei Kriterien bewertbar sind:
+ Berechne den Durchschnitt ohne das fehlende Kriterium.
+
+ Falls nur zwei Kriterien bewertbar sind:
+ Berechne die Teilbewertung mit angepasster Gewichtung.
+
+ Falls weniger als zwei Kriterien vorhanden sind:
+ Markiere das Anliegen als „Fehlende Daten“.
+
+
+
+
+
+
+
+
+Ausgabeformat
+Erstelle  Tabellen in einem CSV-ähnlichen Format, wobei die Spalten durch Kommas getrennt sind. Entferne alle überflüssigen Zeichen wie Trennstriche oder zusätzliche Leerzeichen:
+
+Anliegen,Wahrscheinlichkeit und Schwere,Finanzielle Materialität,Stakeholder-Perspektiven,Strategische Relevanz,Gesamtbewertung von 3.0,Priorität
+Transparenz in der Lieferkette,Hoch,Mittel,Hoch,Gering,2.4,Mittel
+CO₂-Reduktion,Kein relevante Daten,Hoch,Mittel,Hoch,Fehlende Daten,Fehlende Daten
+
+
+
+
+
+
+Wichtige Hinweise:
+Die Antwort darf  nur Tabellen enthalten.
+Keine weiteren Kommentare oder Erklärungen hinzufügen.
+Einheitlichkeit der Tabelle sicherstellen.
+
+Hinweis: Deine Antworten werden durch Spezialisten bewertet, um ihre Vollständigkeit, Präzision und Formatierung zu prüfen.
+Um deine Antwortqualität zu verbessern, kannst du auf die Feedback-Datei mit alten Feedbacks zugreifen:
+Diese Datei enthält Bewertungen, Kommentare und Vorschläge zur Verbesserung früherer Antworten. Bitte berücksichtige diese Feedbacks, um typische Fehler zu vermeiden und deine Antwort bestmöglich an die Anforderungen anzupassen.liese die ersten six Feeddback.
+Nutze das Feedback als Leitfaden, um:
+1. Unvollständigkeiten in deinen Antworten zu vermeiden.
+2. Präzise und nachvollziehbare Antworten zu liefern.
+3. Das vorgegebene Format exakt einzuhalten.
+
+Beachte: Wenn du auf das Feedback zugreifst, verweise nicht direkt darauf, sondern nutze die enthaltenen Informationen, um deine Antwort zu optimieren.
+
+
+
+
+
+Kontrollfragen
+Wurden alle identifizierten Stakeholder-Anliegen bewertet?
+Sind unvorhergesehene Stakeholder oder Relevanzen in die Bewertung integriert worden?
+Gibt es eine konsolidierte Tabelle mit allen Bewertungen?
+ist die Antwort nur als Tabellen geliefert
+Falls keine Bewertung möglich ist, wurde das Anliegen zur weiteren Analyse markiert, statt eine Annahme zu treffen?
+Ist die Relevanzbewertung vollständig und nachvollziehbar dokumentiert?
+Ist die Antwort nur als Tabelle gliefert, und keine eine weiteren Kommentare oder Erklärungen hinzufügt werden?
+
+
+Nutzerdaten: <Daten>
+Stakeholder-Anliegen: <Anliegen>
+Feedback-Datei: <Feedback>
+Relevanzmuster: <Muster>

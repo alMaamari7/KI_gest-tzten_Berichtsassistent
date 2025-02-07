@@ -1,0 +1,555 @@
+General Requirements
+Thema: Berichtsrahmen
+•	Erwarteter Inhalt:
+Erklärung des angewendeten Berichtsstandards, z. B. ESRS oder CSRD.
+•	Hinweis für das LLM:
+Suche nach Angaben zu verwendeten Berichtsstandards oder gesetzlichen Rahmenbedingungen.
+Beispiel: „Der Bericht basiert auf den ESRS-Standards gemäß der EU-Richtlinie CSRD.“
+•	Eingetragene Daten:
+[Hier die relevanten Daten aus den Nutzerdokumenten einfügen.]
+________________________________________
+Thema: Doppelte Materialität
+•	Erwarteter Inhalt:
+Definition und Anwendung der Prinzipien der doppelten Materialität (Impact- und finanzielle Materialität).
+•	Hinweis für das LLM:
+Suche nach Begriffen wie „Impact-Materialität“, „finanzielle Materialität“ oder „wesentliche Themen“.
+Beispiel 1: „Impact-Materialität: Themen mit wesentlichen Auswirkungen auf Umwelt und Gesellschaft.“
+Beispiel 2: „Finanzielle Materialität: Themen mit wesentlichen Auswirkungen auf die finanzielle Performance.“
+•	Eingetragene Daten:
+[Hier die relevanten Daten aus den Nutzerdokumenten einfügen.]
+________________________________________
+Thema: Qualitative Merkmale der Informationen
+•	Erwarteter Inhalt:
+Beschreibung der Merkmale wie Relevanz, Verlässlichkeit, Vergleichbarkeit, Verifizierbarkeit und Verständlichkeit.
+•	Hinweis für das LLM:
+Suche nach Erwähnungen von Dateneigenschaften wie Konsistenz, Auditierbarkeit oder Vergleichbarkeit.
+Beispiel: „Daten sind konsistent mit den Finanzberichten und durch Audits verifizierbar.“
+•	Eingetragene Daten:
+[Hier die relevanten Daten aus den Nutzerdokumenten einfügen.]
+________________________________________
+Thema: Abdeckung der gesamten Wertschöpfungskette
+•	Erwarteter Inhalt:
+Beschreibung, wie Daten entlang der gesamten Wertschöpfungskette (Upstream- und Downstream-Aktivitäten) berücksichtigt werden.
+•	Hinweis für das LLM:
+Suche nach Informationen zu Lieferanten, Produktionsprozessen oder Endprodukten.
+Beispiel: „Die Daten umfassen sowohl die Emissionen der Lieferanten als auch die Recyclingfähigkeit der Endprodukte.“
+•	Eingetragene Daten:
+[Hier die relevanten Daten aus den Nutzerdokumenten einfügen.]
+________________________________________
+Kontrollfragen für das LLM:
+1.	Wurde ein Berichtsstandard (z. B. ESRS, CSRD) in den Dokumenten erwähnt?
+2.	Sind Definitionen oder Anwendungen der Prinzipien der doppelten Materialität vorhanden?
+3.	Werden qualitative Merkmale der bereitgestellten Daten beschrieben?
+4.	Gibt es Hinweise auf die Abdeckung der gesamten Wertschöpfungskette?
+
+
+Relevanz-Muster: General Disclosures
+Thema: Nachhaltigkeitsstrategie
+•	Erwarteter Inhalt:
+Beschreibung der Unternehmensstrategie im Hinblick auf Nachhaltigkeit, einschließlich spezifischer Ziele und Maßnahmen.
+•	Hinweis für das LLM:
+Suche nach Angaben zur Nachhaltigkeitsstrategie des Unternehmens, insbesondere spezifische Ziele (z. B. CO₂-Reduktion) oder langfristige Pläne.
+Beispiel: „Unsere Strategie fokussiert auf die Reduktion von CO₂-Emissionen um 30 % bis 2030.“
+•	Eingetragene Daten:
+[Hier die relevanten Daten aus den Nutzerdokumenten einfügen.]
+________________________________________
+Thema: Geschäftsmodell
+•	Erwarteter Inhalt:
+Darstellung des Geschäftsmodells mit Bezug auf ESG-Risiken und -Chancen.
+•	Hinweis für das LLM:
+Suche nach Informationen über die Struktur des Geschäftsmodells, insbesondere dessen Bezug zu ESG-Risiken (z. B. Lieferkettenrisiken, Ressourcennutzung) und Chancen (z. B. neue Märkte, Innovationen).
+Beispiel: „Unser Geschäftsmodell basiert auf der Bereitstellung nachhaltiger Produkte und Dienstleistungen, die zu einer Kreislaufwirtschaft beitragen.“
+•	Eingetragene Daten:
+[Hier die relevanten Daten aus den Nutzerdokumenten einfügen.]
+________________________________________
+Thema: Wertschöpfungskette
+•	Erwarteter Inhalt:
+Beschreibung der gesamten Wertschöpfungskette, einschließlich Upstream- und Downstream-Aktivitäten.
+•	Hinweis für das LLM:
+Suche nach Erwähnungen von Lieferanten, Produktionsprozessen und Kundenbeziehungen, die die gesamte Wertschöpfungskette umfassen.
+Beispiel: „Upstream: Rohstofflieferanten in Asien. Downstream: Endverbraucher in Europa.“
+•	Eingetragene Daten:
+[Hier die relevanten Daten aus den Nutzerdokumenten einfügen.]
+________________________________________
+Thema: Stakeholder-Interessen
+•	Erwarteter Inhalt:
+Bericht über die Erwartungen der Stakeholder und deren Integration in die Strategie.
+•	Hinweis für das LLM:
+Suche nach Informationen über Stakeholder-Feedback, spezifische Erwartungen (z. B. Transparenzanforderungen) und die Reaktion des Unternehmens darauf.
+Beispiel: „NGOs erwarten mehr Transparenz in der Lieferkette; Kunden fordern klimaneutrale Produkte.“
+•	Eingetragene Daten:
+[Hier die relevanten Daten aus den Nutzerdokumenten einfügen.]
+________________________________________
+Thema: Materialitätsprozess
+•	Erwarteter Inhalt:
+Beschreibung der Prozesse zur Identifikation und Bewertung wesentlicher Themen.
+•	Hinweis für das LLM:
+Suche nach Erwähnungen von Methoden und Prozessen zur Materialitätsbewertung, wie Workshops, Benchmarks oder Stakeholder-Befragungen.
+Beispiel: „Die Materialitätsbewertung basiert auf internen und externen Workshops sowie Branchen-Benchmarks.“
+•	Eingetragene Daten:
+[Hier die relevanten Daten aus den Nutzerdokumenten einfügen.]
+________________________________________
+Kontrollfragen für das LLM:
+1.	Ist die Unternehmensstrategie in Bezug auf Nachhaltigkeit in den Daten klar beschrieben?
+2.	Wurden ESG-Risiken und -Chancen des Geschäftsmodells identifiziert und dokumentiert?
+3.	Gibt es Informationen, die die gesamte Wertschöpfungskette abdecken?
+4.	Werden die Interessen der Stakeholder erwähnt und auf ihre Integration in die Strategie eingegangen?
+5.	Sind die Prozesse zur Identifikation und Bewertung wesentlicher Themen beschrieben?
+
+
+Relevanz-Muster: Environmental Disclosures
+Thema: Klimawandelanpassung
+•	Erwarteter Inhalt:
+Beschreibung der Maßnahmen zur Anpassung an die Auswirkungen des Klimawandels.
+•	Hinweise für das LLM:
+o	Suche nach Strategien oder Programmen, die speziell auf klimabedingte Risiken eingehen, z. B. Hochwasserprävention, Hitzeschutz oder Umstellungen bei Energiequellen.
+o	Achte auf Erwähnungen von regionalen oder globalen Anpassungsmaßnahmen.
+o	Identifiziere Initiativen zur Bewertung von Klimarisiken (z. B. physische und Übergangsrisiken).
+Beispiel: „Das Unternehmen hat die Energieeffizienz in Produktionsanlagen um 20 % erhöht.“
+•	Eingetragene Daten:
+[Hier die relevanten Daten aus den Nutzerdokumenten einfügen.]
+________________________________________
+Thema: Reduktionsstrategien für Treibhausgasemissionen
+•	Erwarteter Inhalt:
+Detaillierte Daten zu CO₂-Emissionen nach Scope (1, 2, 3) sowie die geplanten und umgesetzten Reduktionsstrategien.
+•	Hinweise für das LLM:
+o	Suche nach Zahlen für Scope 1 (direkte Emissionen), Scope 2 (indirekte Emissionen aus Energieverbrauch) und Scope 3 (Emissionen entlang der Lieferkette).
+o	Identifiziere Ziele zur CO₂-Reduktion, einschließlich Zeitrahmen und spezifischer Maßnahmen (z. B. Wechsel zu erneuerbaren Energien).
+o	Suche nach Berichten über Fortschritte, z. B. prozentuale Reduktionen im Vergleich zu Vorjahren.
+Beispiel: „Scope 1: 50.000 Tonnen CO₂; Scope 2: 10.000 Tonnen CO₂; Ziel: 25 % Reduktion bis 2030.“
+•	Eingetragene Daten:
+[Hier die relevanten Daten aus den Nutzerdokumenten einfügen.]
+________________________________________
+Thema: Energieverbrauch und -quellen
+•	Erwarteter Inhalt:
+Aufschlüsselung des Energieverbrauchs nach erneuerbaren und nicht erneuerbaren Energiequellen sowie Maßnahmen zur Steigerung der Energieeffizienz.
+•	Hinweise für das LLM:
+o	Suche nach Daten zur Gesamtmenge des Energieverbrauchs (in kWh oder anderen Einheiten).
+o	Identifiziere den Anteil erneuerbarer Energien am Energieverbrauch.
+o	Suche nach Maßnahmen zur Reduzierung des Energieverbrauchs (z. B. Effizienzmaßnahmen, Gebäudeisolierung).
+Beispiel: „50 % des Energieverbrauchs stammen aus erneuerbaren Quellen.“
+•	Eingetragene Daten:
+[Hier die relevanten Daten aus den Nutzerdokumenten einfügen.]
+________________________________________
+Thema: Ressourcennutzung und Abfallmanagement
+•	Erwarteter Inhalt:
+Beschreibung der Ressourcennutzung, Recyclingquoten und Abfallmanagementstrategien.
+•	Hinweise für das LLM:
+o	Suche nach Angaben zur Nutzung von Ressourcen wie Wasser, Rohstoffen oder Energie.
+o	Identifiziere Daten über Abfallarten (z. B. gefährlicher Abfall, nicht gefährlicher Abfall) und Recyclingprozesse.
+o	Achte auf Maßnahmen zur Reduzierung von Abfall oder zur Wiederverwendung von Materialien.
+Beispiel: „Recyclingquote: 85 %; Abfallvolumen: 500 Tonnen pro Jahr.“
+•	Eingetragene Daten:
+[Hier die relevanten Daten aus den Nutzerdokumenten einfügen.]
+________________________________________
+Thema: Biodiversität und Ökosysteme
+•	Erwarteter Inhalt:
+Maßnahmen zum Schutz der Biodiversität, Erhaltung natürlicher Lebensräume und Minimierung negativer Auswirkungen auf Ökosysteme.
+•	Hinweise für das LLM:
+o	Suche nach Berichten über Schutzprogramme für gefährdete Arten oder Maßnahmen zur Erhaltung von Ökosystemen.
+o	Identifiziere Daten zu Landnutzung, Renaturierung oder Kompensationsmaßnahmen.
+o	Achte auf Zertifizierungen oder Partnerschaften mit Umweltorganisationen.
+Beispiel: „Das Unternehmen hat Programme zur Erhaltung gefährdeter Arten in seiner Lieferkette implementiert.“
+•	Eingetragene Daten:
+[Hier die relevanten Daten aus den Nutzerdokumenten einfügen.]
+________________________________________
+Kontrollfragen für das LLM:
+1.	Gibt es spezifische Maßnahmen zur Anpassung an den Klimawandel, z. B. zur Risikominderung bei physischen oder regulatorischen Klimarisiken?
+2.	Werden CO₂-Emissionen nach Scope 1, 2 und 3 aufgegliedert, und gibt es klare Reduktionsstrategien?
+3.	Ist der Energieverbrauch nach erneuerbaren und nicht erneuerbaren Quellen aufgeschlüsselt, und sind Maßnahmen zur Energieeffizienz dokumentiert?
+4.	Gibt es detaillierte Angaben zu Ressourcennutzung und Abfallmanagement, einschließlich Recyclingquoten?
+5.	Werden Maßnahmen zum Schutz der Biodiversität und zur Minimierung von Eingriffen in Ökosysteme beschrieben?
+
+
+
+
+
+
+
+
+Relevanz-Muster: Social Disclosures
+Thema: Arbeitsstandards
+•	Erwarteter Inhalt:
+Beschreibung der Maßnahmen zur Sicherstellung fairer Löhne, sicherer Arbeitsbedingungen und Einhaltung von Arbeitsrechten im Unternehmen und in der Lieferkette.
+•	Hinweise für das LLM:
+o	Suche nach spezifischen Zahlen zu Löhnen, z. B. durchschnittlicher Stundenlohn, Medianlöhne oder Gehaltsbänder.
+o	Achte auf Berichte zu Unfallraten, Sicherheitsprotokollen oder Zertifizierungen (z. B. ISO 45001).
+o	Suche nach Erwähnungen von Compliance-Richtlinien zu Arbeitsgesetzen (z. B. Arbeitszeitregelungen, Mindestlohn).
+Beispiel: „Durchschnittlicher Stundenlohn: 15 €; Unfallrate: 2 %.“
+•	Eingetragene Daten:
+[Hier die relevanten Daten aus den Nutzerdokumenten einfügen.]
+________________________________________
+Thema: Diversität und Inklusion
+•	Erwarteter Inhalt:
+Darstellung der Maßnahmen und Daten zur Förderung von Diversität und Inklusion im Unternehmen, insbesondere in Führungspositionen.
+•	Hinweise für das LLM:
+o	Suche nach Geschlechterverteilungen, z. B. in der Belegschaft und in Führungspositionen.
+o	Achte auf Programme zur Förderung von Minderheiten oder benachteiligten Gruppen.
+o	Identifiziere Richtlinien oder Initiativen zur Vermeidung von Diskriminierung.
+Beispiel: „Geschlechterverteilung: 50 % weiblich, 50 % männlich; Führungskräfte: 40 % Frauen.“
+•	Eingetragene Daten:
+[Hier die relevanten Daten aus den Nutzerdokumenten einfügen.]
+________________________________________
+Thema: Einhaltung von Menschenrechten
+•	Erwarteter Inhalt:
+Maßnahmen und Prozesse zur Sicherstellung der Menschenrechte im Unternehmen und in der Lieferkette, z. B. Überprüfungsmechanismen, Audits oder Zertifizierungen.
+•	Hinweise für das LLM:
+o	Suche nach Berichten über Menschenrechtsrisiken, z. B. Kinderarbeit, Zwangsarbeit oder Diskriminierung.
+o	Achte auf Auditprogramme, z. B. Überprüfungen der Lieferkette hinsichtlich Menschenrechtsverletzungen.
+o	Identifiziere Zertifizierungen, z. B. SA8000 oder andere menschenrechtsbezogene Standards.
+Beispiel: „Keine Berichte über Kinderarbeit bei Zulieferern; jährliche Lieferanten-Audits durchgeführt.“
+•	Eingetragene Daten:
+[Hier die relevanten Daten aus den Nutzerdokumenten einfügen.]
+________________________________________
+Thema: Gesundheits- und Sicherheitsmaßnahmen
+•	Erwarteter Inhalt:
+Programme und Richtlinien zur Förderung der Gesundheit und Sicherheit der Mitarbeiter.
+•	Hinweise für das LLM:
+o	Suche nach Unfallstatistiken, z. B. Häufigkeit oder Schwere von Arbeitsunfällen.
+o	Identifiziere Programme zur Gesundheitsförderung, z. B. Gesundheitschecks, Präventionsmaßnahmen oder Mitarbeiterunterstützungsprogramme.
+o	Suche nach Schulungsmaßnahmen zur Arbeitssicherheit.
+Beispiel: „Unfallrate: 1,5 %; Gesundheitschecks für 90 % der Belegschaft verfügbar.“
+•	Eingetragene Daten:
+[Hier die relevanten Daten aus den Nutzerdokumenten einfügen.]
+________________________________________
+Thema: Mitarbeiterentwicklung
+•	Erwarteter Inhalt:
+Programme zur Weiterbildung, Entwicklung und Förderung der Fähigkeiten der Mitarbeiter.
+•	Hinweise für das LLM:
+o	Suche nach Angaben zu Schulungsstunden pro Mitarbeiter, z. B. jährlich oder pro Abteilung.
+o	Achte auf spezifische Entwicklungsprogramme, z. B. Führungskräftetrainings oder technische Schulungen.
+o	Suche nach Investitionen in die Mitarbeiterentwicklung (z. B. prozentualer Anteil des Budgets).
+Beispiel: „Durchschnittliche Schulungsstunden pro Mitarbeiter: 40 Stunden/Jahr; Budget für Weiterbildung: 5 % der Personalkosten.“
+•	Eingetragene Daten:
+[Hier die relevanten Daten aus den Nutzerdokumenten einfügen.]
+________________________________________
+Kontrollfragen für das LLM:
+1.	Sind konkrete Zahlen oder Maßnahmen zu fairen Löhnen und sicheren Arbeitsbedingungen dokumentiert?
+2.	Werden Initiativen zur Förderung von Diversität und Inklusion, insbesondere in Führungspositionen, beschrieben?
+3.	Gibt es Prozesse zur Sicherstellung der Einhaltung von Menschenrechten, einschließlich Lieferantenaudits?
+4.	Sind Programme zur Gesundheitsförderung und Arbeitssicherheit dokumentiert?
+5.	Werden Weiterbildungsprogramme oder andere Maßnahmen zur Mitarbeiterentwicklung erwähnt?
+
+
+Relevanz-Muster: Governance Disclosures
+Thema: Verhaltenskodex und ethische Richtlinien
+•	Erwarteter Inhalt:
+Beschreibung des unternehmensweiten Verhaltenskodex, ethischer Geschäftspraktiken und Compliance-Richtlinien.
+•	Hinweise für das LLM:
+o	Suche nach Dokumenten oder Passagen, die ethische Standards und Richtlinien für Mitarbeiter, Lieferanten oder Partner definieren.
+o	Identifiziere spezifische Kapitel zu Themen wie Integrität, Anti-Diskriminierung oder ethisches Verhalten.
+o	Achte auf Schulungsprogramme oder Initiativen zur Einhaltung dieser Richtlinien.
+Beispiel: „Unser Code of Conduct umfasst Maßnahmen zur Korruptionsprävention und die Einhaltung ethischer Geschäftspraktiken.“
+•	Eingetragene Daten:
+[Hier die relevanten Daten aus den Nutzerdokumenten einfügen.]
+________________________________________
+Thema: Korruptionsprävention
+•	Erwarteter Inhalt:
+Maßnahmen zur Verhinderung von Korruption und Bestechung sowie Berichte über Vorfälle.
+•	Hinweise für das LLM:
+o	Suche nach Richtlinien oder Prozessen zur Korruptionsprävention (z. B. Anti-Bribery-Programme).
+o	Identifiziere Daten über gemeldete Korruptionsvorfälle und deren Bearbeitung.
+o	Suche nach Zertifizierungen oder externen Überprüfungen, die die Wirksamkeit dieser Maßnahmen belegen.
+Beispiel: „Im Berichtsjahr wurden 0 Korruptionsvorfälle gemeldet, und alle Mitarbeiter haben eine Schulung zur Korruptionsprävention durchlaufen.“
+•	Eingetragene Daten:
+[Hier die relevanten Daten aus den Nutzerdokumenten einfügen.]
+________________________________________
+Thema: Whistleblower-Systeme
+•	Erwarteter Inhalt:
+Beschreibung von Systemen und Prozessen zur Meldung und Bearbeitung von Verstößen.
+•	Hinweise für das LLM:
+o	Suche nach Erwähnungen anonymer Meldekanäle, wie Hotlines oder digitale Plattformen für Whistleblower.
+o	Identifiziere Statistiken über eingegangene Berichte, z. B. Anzahl und Art der Verstöße, sowie deren Bearbeitungsstatus.
+o	Achte auf Berichte zur Sicherstellung der Vertraulichkeit und zum Schutz von Whistleblowern.
+Beispiel: „Das Unternehmen hat ein anonymes Whistleblower-System eingeführt, das 10 Berichte im letzten Jahr verzeichnet hat, von denen alle geprüft wurden.“
+•	Eingetragene Daten:
+[Hier die relevanten Daten aus den Nutzerdokumenten einfügen.]
+________________________________________
+Thema: Transparenzinitiativen
+•	Erwarteter Inhalt:
+Maßnahmen und Initiativen zur Förderung der Transparenz in der Unternehmensführung.
+•	Hinweise für das LLM:
+o	Suche nach Publikationen oder Berichten, die öffentlich zugänglich sind, z. B. ESG-Berichte, Governance-Dokumentationen.
+o	Identifiziere Prozesse oder Mechanismen, die eine regelmäßige Offenlegung von Unternehmensinformationen sicherstellen.
+o	Achte auf Erwähnungen von Stakeholder-Engagement oder Feedbackprozessen zur Förderung der Transparenz.
+Beispiel: „Das Unternehmen veröffentlicht regelmäßig Berichte zu ESG-Themen, die öffentlich zugänglich sind.“
+•	Eingetragene Daten:
+[Hier die relevanten Daten aus den Nutzerdokumenten einfügen.]
+________________________________________
+Kontrollfragen für das LLM:
+1.	Sind ethische Richtlinien oder ein Verhaltenskodex dokumentiert, der spezifische Standards und Werte des Unternehmens definiert?
+2.	Werden Maßnahmen und Programme zur Korruptionsprävention beschrieben, einschließlich gemeldeter Vorfälle und Schulungen?
+3.	Gibt es Systeme oder Prozesse zur anonymen Meldung und Bearbeitung von Verstößen (Whistleblower-Systeme)?
+4.	Sind Initiativen zur Förderung der Transparenz in der Unternehmensführung dokumentiert, einschließlich öffentlich zugänglicher Berichte?
+
+
+Relevanz-Muster: Policies, Actions, and Targets
+
+Thema: Nachhaltigkeitspolitiken
+
+Erwarteter Inhalt:
+Beschreibung der Präventions-, Milderungs- und Abhilfemaßnahmen zu negativen Auswirkungen.
+Umfang der Politik: Aktivitäten, Wertschöpfungskette, Geografien und betroffene Stakeholder.
+Erwähnung von Standards oder externen Initiativen (z. B. UN Guiding Principles, ILO).
+Einbindung der Interessen von Stakeholdern bei der Entwicklung der Politik.
+Hinweise für Datenzuordnung:
+Suche nach Begriffen wie „Risikomanagement“, „Prävention“, „Abhilfemaßnahmen“ und „geografische Abdeckung“.
+Achte darauf, ob die Politik explizit dokumentiert ist.
+Eingetragene Daten:
+[Hier werden die relevanten Daten aus den Nutzerdokumenten eingefügt.]
+
+
+Thema: Aktionen
+Erwarteter Inhalt:
+Liste der wichtigsten Maßnahmen (aktuell und geplant) sowie deren erwartete Ergebnisse.
+Umfang der Maßnahmen: Aktivitäten, Wertschöpfungskette, Geografien und betroffene Stakeholder.
+Zeitrahmen für die Umsetzung jeder Maßnahme.
+Quantitative und qualitative Fortschrittsberichte zu vorherigen Maßnahmen.
+Hinweise für Datenzuordnung:
+Suche nach Maßnahmenplänen, Fortschrittsberichten oder Budgetangaben (OpEx/CapEx).
+Achte auf spezifische Zeitrahmen oder geografische Abdeckungen.
+Eingetragene Daten:
+[Hier werden die relevanten Daten aus den Nutzerdokumenten eingefügt.]
+
+
+Thema: Nachhaltigkeitsziele
+Erwarteter Inhalt:
+Definition von Zielen (quantitativ und/oder qualitativ), einschließlich Basisjahr und Zieljahr.
+Fortschrittsmessung und Bericht über Zielerreichung.
+Verwendete Methoden und Annahmen zur Zielsetzung (z. B. Szenarien, Alignment mit Science-Based Targets).
+Verknüpfung der Ziele mit relevanten Richtlinien und Standards.
+Hinweise für Datenzuordnung:
+Suche nach Zieldefinitionen wie „Reduktion um 30 % bis 2030“.
+Achte auf Basisjahre, Fortschrittsberichte und verwendete Methoden.
+Eingetragene Daten:
+[Hier werden die relevanten Daten aus den Nutzerdokumenten eingefügt.]
+
+
+Kontrollfragen für das LLM
+1. Nachhaltigkeitspolitiken:
+Sind die Präventions-, Milderungs- und Abhilfemaßnahmen klar beschrieben?
+Werden relevante Standards oder externe Initiativen referenziert?
+Ist die geografische und thematische Abdeckung der Politik dokumentiert?
+2. Aktionen:
+Sind die geplanten und durchgeführten Maßnahmen sowie deren Ergebnisse dokumentiert?
+Gibt es Angaben zu Zeitrahmen, betroffenen Stakeholdern und Fortschrittsmessung?
+3. Nachhaltigkeitsziele:
+Sind die Ziele klar definiert (z. B. Basisjahr, Zieljahr, Quantifizierung)?
+Gibt es Fortschrittsberichte und Informationen zur Methodik der Zielsetzung?
+
+
+
+Relevanz-Muster: Stakeholder Mapping
+Thema: Identifikation relevanter Stakeholder-Gruppen
+•	Erwarteter Inhalt:
+Liste der internen und externen Stakeholder, die von den Aktivitäten des Unternehmens betroffen sind oder diese beeinflussen können.
+•	Hinweise für das LLM:
+o	Suche nach Erwähnungen von Stakeholder-Gruppen wie Mitarbeiter, Kunden, Lieferanten, Investoren, NGOs oder Behörden.
+o	Identifiziere Gruppen, die in strategischen Dokumenten oder Berichten explizit erwähnt werden.
+Beispiel: „Mitarbeiter, Kunden, NGOs und Investoren sind als relevante Stakeholder identifiziert.“
+•	Eingetragene Daten:
+[Hier die relevanten Daten aus den Nutzerdokumenten einfügen.]
+________________________________________
+Thema: Stakeholder-Erwartungen und Anliegen
+•	Erwarteter Inhalt:
+Beschreibung der Erwartungen, Anliegen und Prioritäten der Stakeholder in Bezug auf die Unternehmensstrategie oder ESG-Aspekte.
+•	Hinweise für das LLM:
+o	Suche nach Feedback aus Stakeholder-Befragungen, internen Workshops oder externen Berichten.
+o	Achte auf explizite Erwartungen wie Transparenzanforderungen, Klimaneutralität, Diversität oder faire Arbeitsbedingungen.
+Beispiel: „NGOs fordern Transparenz in der Lieferkette; Kunden erwarten nachhaltige Produkte.“
+•	Eingetragene Daten:
+[Hier die relevanten Daten aus den Nutzerdokumenten einfügen.]
+________________________________________
+Thema: Stille Stakeholder
+•	Erwarteter Inhalt:
+Berücksichtigung von Stakeholdern, die keine direkte Stimme haben, z. B. Umweltressourcen, zukünftige Generationen oder lokale Gemeinschaften.
+•	Hinweise für das LLM:
+o	Suche nach Erwähnungen von Umweltbelastungen, Naturschutzmaßnahmen oder sozialen Auswirkungen auf lokale Gemeinschaften.
+o	Identifiziere Initiativen, die speziell auf die Bedürfnisse dieser stillen Stakeholder abzielen.
+Beispiel: „Wasserressourcen und lokale Biodiversität werden durch Renaturierungsprogramme geschützt.“
+•	Eingetragene Daten:
+[Hier die relevanten Daten aus den Nutzerdokumenten einfügen.]
+________________________________________
+Thema: Zusammenfassung der Stakeholder-Interessen
+•	Erwarteter Inhalt:
+Eine aggregierte Darstellung der wichtigsten Anliegen und deren Priorisierung.
+•	Hinweise für das LLM:
+o	Suche nach Berichten oder Dokumenten, die die Interessen der Stakeholder priorisieren oder nach Relevanz ordnen.
+o	Achte auf explizite Gewichtungen oder Rankings von Stakeholder-Themen.
+Beispiel: „Stakeholder A fordert klimaneutrale Lieferketten, während Stakeholder B Diversität und Inklusion priorisiert.“
+•	Eingetragene Daten:
+[Hier die relevanten Daten aus den Nutzerdokumenten einfügen.]
+________________________________________
+Kontrollfragen für das LLM:
+1.	Wurden alle relevanten Stakeholder-Gruppen identifiziert und dokumentiert?
+2.	Sind die Erwartungen und Anliegen der Stakeholder, basierend auf Feedback oder Befragungen, klar beschrieben?
+3.	Werden stille Stakeholder berücksichtigt, und gibt es Maßnahmen zu ihrem Schutz oder ihrer Förderung?
+4.	Gibt es eine priorisierte Übersicht der Stakeholder-Interessen, die für die Unternehmensstrategie relevant sind?
+
+Relevanz-Muster: Value Chain Analysis
+Thema: Übersicht der Lieferanten und Kunden
+•	Erwarteter Inhalt:
+Darstellung der wichtigsten Lieferanten und Kunden, einschließlich geografischer Verteilung und ESG-Bewertungen.
+•	Hinweise für das LLM:
+o	Suche nach Listen oder Berichten zu Lieferanten und Kunden, einschließlich Standorten und Branchenzugehörigkeit.
+o	Identifiziere ESG-Ratings oder Zertifizierungen von Lieferanten, z. B. ISO 14001.
+o	Achte auf Erwähnungen von Beziehungen zu strategischen Partnern.
+Beispiel: „Lieferanten befinden sich hauptsächlich in Asien und Europa; 70 % sind ISO 14001 zertifiziert.“
+•	Eingetragene Daten:
+[Hier die relevanten Daten aus den Nutzerdokumenten einfügen.]
+________________________________________
+Thema: ESG-Risiken in der Lieferkette
+•	Erwarteter Inhalt:
+Identifikation von Risiken und Chancen in der Lieferkette, z. B. Arbeitsbedingungen, Emissionen, Materialknappheit.
+•	Hinweise für das LLM:
+o	Suche nach Berichten oder Analysen, die ESG-Risiken wie Kinderarbeit, hohe Emissionen oder Ressourcenknappheit behandeln.
+o	Identifiziere spezifische Risiken, die von Branchenstandards oder gesetzlichen Anforderungen abweichen.
+o	Achte auf Initiativen oder Strategien, die Risiken minimieren sollen (z. B. Lieferantenaudits).
+Beispiel: „Hohe CO₂-Emissionen bei Rohstofflieferanten; Maßnahmen zur Einführung emissionsarmer Transporte eingeleitet.“
+•	Eingetragene Daten:
+[Hier die relevanten Daten aus den Nutzerdokumenten einfügen.]
+________________________________________
+Thema: Produkte und Dienstleistungen entlang ihres Lebenszyklus
+•	Erwarteter Inhalt:
+Analyse der Umwelt- und Sozialauswirkungen von Produkten und Dienstleistungen entlang ihres gesamten Lebenszyklus.
+•	Hinweise für das LLM:
+o	Suche nach Angaben zur Nachhaltigkeit von Produkten, wie Recyclingfähigkeit, CO₂-Fußabdruck oder Materialeffizienz.
+o	Identifiziere Berichte zu Lebenszyklusanalysen (LCAs) oder deren Ergebnissen.
+o	Achte auf Maßnahmen zur Verbesserung der Nachhaltigkeit (z. B. Umstellung auf umweltfreundliche Verpackungen).
+Beispiel: „Recyclingfähigkeit unserer Produkte: 85 %; CO₂-Emissionen pro Einheit um 15 % reduziert.“
+•	Eingetragene Daten:
+[Hier die relevanten Daten aus den Nutzerdokumenten einfügen.]
+________________________________________
+Thema: Proxy-Daten oder Schätzungen
+•	Erwarteter Inhalt:
+Verwendung von Branchen-Benchmarks oder Schätzungen zur Ergänzung fehlender Daten.
+•	Hinweise für das LLM:
+o	Suche nach Verweisen auf Proxy-Daten, z. B. Emissionswerte oder Energieverbrauch von Vergleichsunternehmen.
+o	Identifiziere Branchenstandards oder allgemeine Benchmarks, die als Referenz herangezogen wurden.
+o	Achte auf Angaben zu Unsicherheiten oder Abweichungen in den Schätzungen.
+Beispiel: „Branchendurchschnittliche CO₂-Emissionen wurden verwendet, um Datenlücken zu schließen.“
+•	Eingetragene Daten:
+[Hier die relevanten Daten aus den Nutzerdokumenten einfügen.]
+________________________________________
+Kontrollfragen für das LLM:
+1.	Werden die wichtigsten Lieferanten und Kunden, einschließlich Standorten und ESG-Bewertungen, dokumentiert?
+2.	Sind ESG-Risiken in der Lieferkette identifiziert und gibt es Strategien zur Minimierung dieser Risiken?
+3.	Werden Umwelt- und Sozialauswirkungen der Produkte und Dienstleistungen entlang ihres Lebenszyklus analysiert?
+4.	Gibt es Proxy-Daten oder Benchmarks, die zur Ergänzung von fehlenden Informationen genutzt wurden?
+
+
+Relevanz-Muster: Materiality Assessment
+Thema: ESG-Themen aus internen und externen Quellen
+•	Erwarteter Inhalt:
+Sammlung und Analyse von relevanten ESG-Themen basierend auf internen Berichten (z. B. Geschäftsberichte, Stakeholder-Befragungen) und externen Studien (z. B. Branchenberichte, regulatorische Anforderungen).
+•	Hinweise für das LLM:
+o	Suche nach Erwähnungen spezifischer ESG-Themen, die für das Unternehmen und die Branche relevant sind.
+o	Identifiziere Datenquellen wie Umfragen, Analysen oder externe Berichte.
+o	Achte auf Trends oder Risiken, die in externen Studien hervorgehoben werden.
+Beispiel: „Stakeholder-Befragung zeigt, dass Klimaneutralität als eines der wichtigsten Themen wahrgenommen wird.“
+•	Eingetragene Daten:
+[Hier die relevanten Daten aus den Nutzerdokumenten einfügen.]
+________________________________________
+Thema: Unternehmensstrategie und Nachhaltigkeitsziele
+•	Erwarteter Inhalt:
+Integration der Unternehmensstrategie und spezifischer Nachhaltigkeitsziele in die Materialitätsbewertung.
+•	Hinweise für das LLM:
+o	Suche nach strategischen Aussagen zu Nachhaltigkeitszielen (z. B. CO₂-Reduktion, Diversitätsziele).
+o	Identifiziere Zeitrahmen oder messbare Indikatoren, die mit den Zielen verbunden sind.
+o	Achte auf Strategiepapiere, in denen ESG-Themen explizit priorisiert werden.
+Beispiel: „Strategie zur Reduktion der CO₂-Emissionen um 30 % bis 2030, basierend auf Branchenbenchmarks.“
+•	Eingetragene Daten:
+[Hier die relevanten Daten aus den Nutzerdokumenten einfügen.]
+________________________________________
+Thema: Berücksichtigung von Standards und Vorschriften
+•	Erwarteter Inhalt:
+Sicherstellung, dass die Materialitätsbewertung relevante Standards und Vorschriften berücksichtigt, z. B. ESRS, GRI, TCFD.
+•	Hinweise für das LLM:
+o	Suche nach Erwähnungen oder Zitierungen von regulatorischen Anforderungen oder branchenspezifischen Standards.
+o	Identifiziere Berichte oder Abschnitte, die erklären, wie Standards in die Bewertung einfließen.
+o	Achte auf Querverweise zu rechtlichen Vorgaben (z. B. EU-Richtlinien).
+Beispiel: „Die Materialitätsbewertung wurde auf Basis der Anforderungen der ESRS und GRI-Standards durchgeführt.“
+•	Eingetragene Daten:
+[Hier die relevanten Daten aus den Nutzerdokumenten einfügen.]
+________________________________________
+Thema: Quantitative und qualitative Daten
+•	Erwarteter Inhalt:
+Nutzung quantitativer (z. B. Emissionsdaten, Umfrageergebnisse) und qualitativer (z. B. Expertenmeinungen, Stakeholder-Feedback) Daten zur Unterstützung der Materialitätsbewertung.
+•	Hinweise für das LLM:
+o	Suche nach konkreten Zahlen, die wesentliche ESG-Themen untermauern (z. B. CO₂-Emissionen, Diversitätsstatistiken).
+o	Achte auf narrative Beschreibungen, die qualitative Einblicke in die Materialitätsbewertung geben.
+o	Identifiziere Methoden oder Tools zur Analyse der Daten.
+Beispiel: „Die Bewertung basiert auf einer Umfrage mit 500 Stakeholdern; 70 % priorisieren Klimawandel als kritisches Thema.“
+•	Eingetragene Daten:
+[Hier die relevanten Daten aus den Nutzerdokumenten einfügen.]
+________________________________________
+Thema: Priorisierung der Themen
+•	Erwarteter Inhalt:
+Erstellung einer priorisierten Liste wesentlicher Themen basierend auf der doppelten Materialität (Impact- und finanzielle Materialität).
+•	Hinweise für das LLM:
+o	Suche nach Tabellen, Diagrammen oder Texten, die die Priorisierung wesentlicher ESG-Themen zeigen.
+o	Identifiziere spezifische Kriterien für die Priorisierung, z. B. Stakeholder-Relevanz, regulatorische Dringlichkeit oder finanzielle Auswirkungen.
+o	Achte auf Darstellungen, die sowohl interne als auch externe Perspektiven abbilden.
+Beispiel: „Klimawandel (hohe Priorität), Biodiversität (mittlere Priorität), Diversität (geringe Priorität).“
+•	Eingetragene Daten:
+[Hier die relevanten Daten aus den Nutzerdokumenten einfügen.]
+________________________________________
+Kontrollfragen für das LLM:
+1.	Werden alle relevanten internen und externen ESG-Themen dokumentiert, einschließlich ihrer Quellen?
+2.	Sind Nachhaltigkeitsziele und die Unternehmensstrategie klar in die Materialitätsbewertung integriert?
+3.	Gibt es Verweise auf relevante Standards und Vorschriften, die in die Bewertung einbezogen wurden?
+4.	Werden quantitative und qualitative Daten genutzt, um die Bewertung zu untermauern?
+5.	Ist eine priorisierte Liste wesentlicher Themen basierend auf der doppelten Materialität vorhanden?
+
+Relevanz-Muster: Thematic Disclosures
+Thema: Zusammenfassung der Ergebnisse
+•	Erwarteter Inhalt:
+Darstellung der zentralen Erkenntnisse aus Stakeholder-Mapping, Wertschöpfungskettenanalyse und Materialitätsbewertung.
+•	Hinweise für das LLM:
+o	Suche nach Berichten oder Dokumenten, die wichtige ESG-Ergebnisse und Themen priorisiert zusammenfassen.
+o	Achte auf Verweise auf Stakeholder-Erwartungen oder -Prioritäten sowie auf Unternehmensstrategien.
+o	Identifiziere Kernbotschaften, die die ESG-Leistung des Unternehmens hervorheben.
+Beispiel: „Wesentliche Themen umfassen Klimawandel (hohe Priorität) und Diversität (mittlere Priorität).“
+•	Eingetragene Daten:
+[Hier die relevanten Daten aus den Nutzerdokumenten einfügen.]
+________________________________________
+Thema: ESG-Daten und Statistiken
+•	Erwarteter Inhalt:
+Präsentation quantitativer und qualitativer ESG-Daten, einschließlich CO₂-Emissionen, Diversitätsstatistiken und Fortschritte bei Umwelt- oder Sozialmaßnahmen.
+•	Hinweise für das LLM:
+o	Suche nach Tabellen oder Diagrammen, die relevante ESG-Daten visualisieren.
+o	Identifiziere Berichte, die Fortschritte gegenüber vorher festgelegten Zielen zeigen.
+o	Achte auf qualitative Beschreibungen von Maßnahmen oder Trends, die ESG-Ziele betreffen.
+Beispiel: „CO₂-Emissionen (2023): Scope 1: 50.000 Tonnen, Scope 2: 10.000 Tonnen.“
+•	Eingetragene Daten:
+[Hier die relevanten Daten aus den Nutzerdokumenten einfügen.]
+________________________________________
+Thema: Maßnahmen, Ziele und Fortschritte
+•	Erwarteter Inhalt:
+Beschreibung der umgesetzten Maßnahmen, gesetzten Ziele und erzielten Fortschritte in jedem ESG-Bereich.
+•	Hinweise für das LLM:
+o	Suche nach Programmen oder Projekten, die Fortschritte bei ESG-Zielen dokumentieren.
+o	Identifiziere spezifische Zielsetzungen, z. B. Reduktion von Emissionen, Erhöhung der Recyclingquote oder Diversitätsziele.
+o	Achte auf Erwähnungen von Erfolgen oder Hindernissen bei der Zielerreichung.
+Beispiel: „Klimaziel: Reduktion der CO₂-Emissionen um 15 % bis 2025 – Aktueller Fortschritt: 12 % erreicht.“
+•	Eingetragene Daten:
+[Hier die relevanten Daten aus den Nutzerdokumenten einfügen.]
+________________________________________
+Thema: Integration in den Bericht
+•	Erwarteter Inhalt:
+Kohärente Darstellung der ESG-Ergebnisse und Daten in Textbausteinen, die für die Berichterstellung genutzt werden können.
+•	Hinweise für das LLM:
+o	Suche nach Berichten oder Abschnitten, die für die direkte Integration in Nachhaltigkeitsberichte geeignet sind.
+o	Identifiziere Textbausteine, die klare, messbare und relevante ESG-Daten enthalten.
+o	Achte darauf, ob die Darstellung in Einklang mit den Berichtsstandards (z. B. ESRS, GRI) steht.
+Beispiel: „Unser Unternehmen hat 2023 Fortschritte bei der Diversität erzielt: 50 % weibliche Führungskräfte, Ziel von 55 % bis 2025.“
+•	Eingetragene Daten:
+[Hier die relevanten Daten aus den Nutzerdokumenten einfügen.]
+________________________________________
+Kontrollfragen für das LLM:
+1.	Werden die zentralen Ergebnisse aus Stakeholder-Mapping, Wertschöpfungskettenanalyse und Materialitätsbewertung zusammengefasst?
+2.	Sind relevante ESG-Daten und Statistiken, einschließlich Fortschritte und Trends, dargestellt?
+3.	Gibt es eine klare Beschreibung der Maßnahmen, Ziele und Fortschritte in jedem ESG-Bereich?
+4.	Sind die Daten und Ergebnisse so formuliert, dass sie direkt in einen Nachhaltigkeitsbericht integriert werden können?
+
+

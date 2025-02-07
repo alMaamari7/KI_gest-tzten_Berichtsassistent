@@ -1,0 +1,76 @@
+ Ziel:
+Eine vollständige Zuordnung der Anliegen zu Stakeholdern und relevanten ESG-Themen vorzunehmen.
+Anliegen, die weiterhin nicht zugeordnet werden können, zu markieren, um diese in späteren Schritten zu prüfen.
+1. Schritte:
+Schritt 1: Analyse der Anliegen basierend auf Stakeholder- und Themen-Listen
+Zuordnung zu Stakeholdern:
+
+Analysiere die Liste der Anliegen ohne Stakeholder-Zuordnung.
+Verwende die Stakeholder-Liste als Referenz, um Anliegen direkt zuzuordnen, falls explizite Erwähnungen vorhanden sind.
+Nutze kontextbezogene Hinweise, um implizit verknüpfte Stakeholder zu identifizieren.
+Beispiel: Anliegen = „Schutz lokaler Wasserressourcen“ → Stakeholder = Lokale Gemeinschaften.
+Beispiel: Anliegen = „Förderung erneuerbarer Energien“ → Stakeholder = Investoren, Behörden.
+Zuordnung zu ESG-Themen:
+
+Verwende die Themen-Liste des Berichts, um die Anliegen den relevanten ESG-Themen zuzuordnen.
+Beispiel: Anliegen = „Schutz lokaler Wasserressourcen“ → Thema = Biodiversität.
+Beispiel: Anliegen = „Förderung erneuerbarer Energien“ → Thema = Nachhaltige Energie.
+Schritt 2: Dynamische Analyse der Nutzerdaten
+Ergänze die Analyse durch eine offene Suche nach zusätzlichen Stakeholdern und Themen, die in der Stakeholder-Liste oder dem Relevanz-Muster nicht definiert sind:
+
+Suche nach neuen Stakeholdern:
+Beispiel: „Regionale Lieferanten“ oder „Gemeindeverbände.“
+Suche nach neuen Themen oder Anliegen:
+Beispiel: „Digitale Inklusion“ oder „Kulturelle Diversität.“
+Verknüpfe die neu identifizierten Anliegen mit Stakeholdern und ESG-Themen, sofern möglich:
+
+Beispiel: Anliegen = „Digitale Inklusion“ → Stakeholder = Verbraucher, Thema = Datenschutz.
+Schritt 3: Konsolidierung und Dokumentation
+Führe die Ergebnisse aus beiden Schritten (Analyse basierend auf Listen und dynamische Analyse) zusammen.
+Entferne Duplikate, um eine konsolidierte Tabelle zu erstellen.
+
+2. Ausgabeformat
+Tabelle 1: Erfolgreich zugeordnete Anliegen
+Anliegen	Zugeordneter Stakeholder	Relevantes Thema
+Schutz lokaler Wasserressourcen	Lokale Gemeinschaften	Biodiversität
+Förderung erneuerbarer Energien	Investoren, Behörden	Nachhaltige Energie
+Digitale Inklusion	Verbraucher	Datenschutz
+Liste: Anliegen ohne endgültige Zuordnung
+Reduktion von Schadstoffemissionen (keine Zuordnung möglich).
+Kulturelle Diversität (keine Zuordnung möglich).
+3. Hinweise zur Präzision
+Stakeholder- und Themen-Listen: Nutze die bereitgestellten Listen als strukturierte Referenz, um präzise Zuordnungen vorzunehmen.
+Dynamische Analyse: Ergänze die Analyse durch unvorhergesehene Stakeholder oder Themen, die in den Daten implizit erwähnt werden.
+Dokumentation von Mehrdeutigkeiten: Markiere Anliegen, die weder Stakeholdern noch ESG-Themen zugeordnet werden konnten, klar und nachvollziehbar für eine spätere Überprüfung.
+
+Hinweis: Deine Antworten werden durch Spezialisten bewertet, um ihre Vollständigkeit, Präzision und Formatierung zu prüfen.
+
+Um deine Antwortqualität zu verbessern, kannst du auf die Feedback-Datei mit alten Feedbacks zugreifen:
+
+
+Diese Datei enthält Bewertungen, Kommentare und Vorschläge zur Verbesserung früherer Antworten. Bitte berücksichtige diese Feedbacks, um typische Fehler zu vermeiden und deine Antwort bestmöglich an die Anforderungen anzupassen.
+
+Nutze das Feedback als Leitfaden, um:
+1. Unvollständigkeiten in deinen Antworten zu vermeiden.
+2. Präzise und nachvollziehbare Antworten zu liefern.
+3. Das vorgegebene Format exakt einzuhalten.
+
+Beachte: Wenn du auf das Feedback zugreifst, verweise nicht direkt darauf, sondern nutze die enthaltenen Informationen, um deine Antwort zu optimieren.
+
+Wichtige Hinweise:
+Die Antwort enthält nur die Tabellen oder Listen.
+Keine weiteren Kommentare oder Erklärungen hinzufügen.
+Einheitlichkeit der Tabelle sicherstellen.
+
+4. Kontrollfragen
+Wurden alle Anliegen aus der Liste vollständig analysiert und Stakeholdern sowie ESG-Themen zugeordnet?
+Gibt es zusätzliche Stakeholder oder Themen aus der dynamischen Analyse, die ergänzt wurden?
+Ist die Liste der Anliegen ohne Zuordnung vollständig dokumentiert und mit Begründungen versehen?
+
+
+Stakeholder-Liste als Referenz: <Stakeholder>
+Liste nicht zugeordneter Anliegen, und die Tabelle die Erfolgreiche zugeordnete Anliegen : <Anliegen>
+Nutzerdaten : <Daten>
+Relevanz-Muster: <Muster>
+Themen-Liste des Berichts: <Themen>
+Feedback-Datei: <Feedback>

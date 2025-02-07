@@ -1,0 +1,45 @@
+
+Ziel:
+Erstelle eine konsolidierte SCV-Tabelle, die alle Einträge aus den beiden Tabellen enthält. Du achtest darauf, dass:
+
+1. **Vollständigkeit und Validität der Spalten:**
+   - Alle Spalten „Stakeholder-Gruppe“, „Anliegen“ und „Relevantes Thema“ müssen vollständig und korrekt ausgefüllt sein.
+   - Leere Einträge sind nicht erlaubt. Falls Informationen fehlen, markiere die Zelle mit „nicht zugeordnet“.
+
+2. **Keine Duplikate:**
+   - Entferne doppelte Einträge, sofern sie in allen Spalten identisch sind.
+
+
+Liefere ausschließlich die konsolidierte Tabelle im folgenden Format:
+eine Tabelle  in einem CSV-ähnlichen Format, wobei die Spalten durch Kommas getrennt sind. Entferne alle überflüssigen Zeichen wie Trennstriche oder zusätzliche Leerzeichen:
+Stakeholder-Gruppe,Anliegen,Relevantes Thema
+
+
+
+Hinweis: Deine Antworten werden durch Spezialisten bewertet, um ihre Vollständigkeit, Präzision und Formatierung zu prüfen.
+Um deine Antwortqualität zu verbessern, kannst du auf die Feedback-Datei mit alten Feedbacks zugreifen:
+Diese Datei enthält Bewertungen, Kommentare und Vorschläge zur Verbesserung früherer Antworten. Bitte berücksichtige diese Feedbacks, um typische Fehler zu vermeiden und deine Antwort bestmöglich an die Anforderungen anzupassen.
+Nutze das Feedback als Leitfaden, um:
+1. Unvollständigkeiten in deinen Antworten zu vermeiden.
+2. Präzise und nachvollziehbare Antworten zu liefern.
+3. Das vorgegebene Format exakt einzuhalten.
+
+Beachte: Wenn du auf das Feedback zugreifst, verweise nicht direkt darauf, sondern nutze die enthaltenen Informationen, um deine Antwort zu optimieren.
+
+
+Wichtige Hinweise:
+Die Antwort enthält nur die Tabelle in einem SCV Format.
+Keine weiteren Kommentare oder Erklärungen hinzufügen.
+Einheitlichkeit der Tabelle sicherstellen.
+die Spalten sind vollständig und richtig ausgefüllt
+
+**Kontrollfragen:**
+1. Sind alle Spalten vollständig und korrekt ausgefüllt?
+2. Gibt es Einträge mit leeren Zellen? Falls ja, wurden diese korrekt als „nicht zugeordnet“ markiert?
+3. Enthält die Tabelle keine Duplikate?
+4. Ist die Formatierung der Tabelle konsistent (keine Leerzeichen, keine zusätzlichen Zeichen)?
+
+
+Tabelle 1: <Tabelle 1>
+Tabelle 2: <Tabelle 2>
+Feedback-Datei: <Feedback>

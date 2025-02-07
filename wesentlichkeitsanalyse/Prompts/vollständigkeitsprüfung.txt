@@ -1,0 +1,77 @@
+den SOLL-Zustand mit dem IST-Zustand zu vergleichen.
+Bewerte ausschließlich Anforderungen, die du überprüfen kannst.
+Wenn Daten fehlen oder unklar sind, gib das an, anstatt Annahmen zu treffen.
+Falls ein Kriterium nicht überprüfbar ist, markiere es als „nicht überprüfbar“, anstatt eine Bewertung vorzunehmen.
+
+
+
+2️⃣ Ergebnisformat (unverändert, aber mit Fehlerkategorien)
+1️⃣ Wenn die Antwort vollständig ist:
+[Name des Schritts]: vollständig.
+Score: [1–10]
+Feedback:
+- Was wurde erwartet?
+- Was wurde geliefert?
+
+
+2️⃣ Wenn die Antwort nicht vollständig ist:
+[Name des Schritts]: nicht-vollständig.
+Score: [1–10]
+Feedback:
+Was wurde erwartet?
+Was wurde geliefert?
+Fehlertyp: (z. B. Datenlücke, Formatierungsfehler, unbegründete Annahme, unvollständige Bewertung)
+Empfohlene Schritte zur Verbesserung.
+
+
+
+3️ Anforderungen an die Prüfung
+1️⃣ Vergleiche den SOLL-Zustand mit dem IST-Zustand.
+2️⃣ Bewerbe ausschließlich Anforderungen, die du überprüfen kannst.
+3️⃣ Falls ein Punkt nicht überprüfbar ist, markiere ihn als „nicht überprüfbar“.
+4️⃣ Falls eine überprüfbare Anforderung fehlt oder unvollständig ist, weise darauf hin, ohne Annahmen zu treffen.
+5️⃣ Liefere ausschließlich das strukturierte Ergebnisformat. Keine zusätzlichen Erläuterungen oder Interpretationen.
+Falls überprüfbare Daten fehlen, soll das LLM aktiv darauf hinweisen, aber keine eigenen Annahmen treffen.
+✅ Falls strukturelle Fehler auftreten (z. B. falsches Format, leere Felder), soll das LLM dies klar benennen.
+✅ Falls eine Antwort überprüfbare Fehler enthält, soll das LLM Fehlertypen zuordnen (z. B. „Datenlücke“, „Formatierungsfehler“, „unbegründete Annahme“).
+
+
+
+
+
+#### Kontrollfragen:
+
+1. Sind alle Anforderungen aus dem SOLL-Zustand im IST-Zustand überprüfbar?
+   - Wenn nein, markiere die entsprechenden Anforderungen als „nicht überprüfbar“ und gib keine Bewertung dazu ab.
+
+2. Sind alle überprüfbaren Anforderungen aus dem SOLL-Zustand erfüllt?
+   - Beispielsweise: Wurden die geforderten Spalten vollständig und korrekt ausgefüllt?
+   - Ist die Tabelle im korrekten Format?
+
+3. Gibt es leere Einträge oder fehlende Informationen in den überprüfbaren Anforderungen?
+   - Wurden leere Felder korrekt als „nicht zugeordnet“ markiert?
+
+4. Enthält die Tabelle redundante oder unklare Einträge?
+   - Gibt es Duplikate, die entfernt werden müssen?
+   - Wurden unklare Einträge dokumentiert?
+
+5. Wurden keine Annahmen oder Interpretationen gemacht?
+   - Bewertet das IST ausschließlich auf Grundlage der bereitgestellten Informationen?
+   - Gibt es Hinweise, dass zusätzliche Stakeholder oder Daten ohne Grundlage ergänzt wurden?
+
+
+
+✅ 7. bei ein Tabelle, die Eine Bewertung lifert : Falls die Gesamtbewertung fehlerhaft ist, liegt der Fehler an einer falschen Berechnung oder an fehlenden Daten?
+Falls falsche Berechnung → Markiere es als „Berechnungsfehler“.
+Falls fehlende Daten → Markiere es als „Datenlücke“.
+
+8. Ist die Antwort nur als Tabelle gliefert, und keine eine weiteren Kommentare oder Erklärungen hinzufügt werden?
+
+
+WICHTIG: Deine Antwort darf **nur** im oben definierten Format erfolgen. Füge keine zusätzlichen Informationen, Kommentare oder Erklärungen hinzu.
+
+
+
+SOLL-Zustand: <SOLL>
+IST-Zustand: <IST>
+Name des Schritts: <Schrittname>

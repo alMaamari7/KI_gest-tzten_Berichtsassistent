@@ -1,0 +1,110 @@
+ Ziel
+Identifiziere und kategorisiere alle relevanten Stakeholder-Gruppen, die in den bereitgestellten Relevanzmustern und Nutzerdaten erwähnt werden.
+
+Falls nicht genügend Daten für eine vollständige Identifikation vorliegen, markiere das Thema als „weitere Analyse erforderlich“, anstatt eine Annahme zu treffen.
+
+2️⃣ Eingabedaten
+✅ Relevanzmuster:
+
+Was: Eine strukturierte Vorlage, die relevante Stakeholder-Gruppen in verschiedenen Unternehmensbereichen beschreibt.
+Warum: Dient als Referenzrahmen, um Stakeholder strukturiert zu erfassen.
+✅ Nutzerdaten:
+
+Was: Hochgeladene Unternehmensberichte, Stakeholder-Kommunikation, Nachhaltigkeitsberichte etc.
+Warum: Enthält spezifische Erwähnungen von Stakeholdern, die für das Unternehmen relevant sind.
+
+
+
+3️⃣ Anforderungen
+1️⃣ Kombiniere Relevanzmuster und Nutzerdaten, um eine präzise Stakeholder-Liste zu erstellen.
+4️⃣ Dokumentiere die Ergebnisse in einem nachvollziehbaren und strukturierten Format.
+
+**Wichtig:**
+   - Nutze keine Annahmen, Synonyme oder Interpretationen.
+   - Wenn keine Stakeholder in den Nutzerdaten erwähnt werden, antworte: „Keine Stakeholder-Gruppen gefunden.“
+
+
+2. Vorgehen:
+Schritt 1: Analyse basierend auf dem Relevanz-Muster
+Relevanz-Muster analysieren:
+Suche gezielt nach:
+Explizit genannten Stakeholder-Gruppen: Beispiel: „Mitarbeiter“, „Kunden“, „NGOs“.
+Synonymen oder verwandten Begriffen: Beispiel: „Belegschaft“ für „Mitarbeiter“, „Gemeinschaften“ für „lokale Bevölkerung“.
+Stillen Stakeholdern: Beispiel: „Umwelt“, „künftige Generationen“.
+
+Schritt 2: Ergänzung durch Stakeholder in den Nutzerdaten
+✅ Was tun: Suche in den Nutzerdaten nach zusätzlichen oder detaillierten Stakeholder-Gruppen.
+✅ Wie: Suche nach:
+Impliziten Erwähnungen von Stakeholdern: Beispiel: „lokale Gemeinschaften“ für indirekte Stakeholder.
+Kontexten, die auf Stakeholder hinweisen: Beispiel: „Menschenrechte in der Lieferkette“ → Lieferkettenarbeiter.
+
+Falls eine neue Stakeholder-Gruppe identifiziert wird, ergänze sie in der Liste.
+Falls eine bestehende Gruppe genauer beschrieben wird (z. B. „Lieferanten in Südamerika“ statt nur „Lieferanten“), ergänze die Detailinformationen.
+✅ Wozu: Sicherstellen, dass die Stakeholder-Liste vollständig und aktuell ist.
+
+
+Schritt 3: Zuordnung der Stakeholder nach Kategorien
+✅ Was tun: Ordne jede Stakeholder-Gruppe zwei Dimensionen zu:
+
+Intern vs. Extern:
+Intern: Stakeholder innerhalb der Organisation (z. B. Mitarbeiter, Führungskräfte).
+Extern: Stakeholder außerhalb der Organisation (z. B. Kunden, Lieferanten, NGOs, Behörden).
+Direkt vs. Indirekt:
+Direkt: Stakeholder mit unmittelbarer Interaktion oder Einfluss (z. B. Kunden, Investoren).
+Indirekt: Stakeholder mit indirekter Verbindung oder ohne Stimme (z. B. Umwelt, zukünftige Generationen).
+✅ Wie: Falls eine eindeutige Zuordnung nicht möglich ist, markiere das Thema als „weitere Analyse erforderlich“.
+Falls stillen Stakeholdern Maßnahmen zugeordnet sind (z. B. Renaturierungsprogramme für Biodiversität), ordne diese der Kategorie „Indirekt“ zu.
+
+
+
+
+Schritt 4 Entferne Duplikate:
+Überprüfe die Liste auf redundante Stakeholder-Gruppen.
+
+**Ausgabeformat**:
+Erstelle eine Tabelle  in einem CSV-ähnlichen Format, wobei die Spalten durch Kommas getrennt sind. Entferne alle überflüssigen Zeichen wie Trennstriche oder zusätzliche Leerzeichen:
+
+Stakeholder-Gruppe,Intern/Extern,Kategorie Direkt/Indirekt
+Mitarbeiter,Intern,Direkt
+
+
+
+
+
+
+
+
+Hinweis: Deine Antworten werden durch Spezialisten bewertet, um ihre Vollständigkeit, Präzision und Formatierung zu prüfen.
+Um deine Antwortqualität zu verbessern, kannst du auf die Feedback-Datei mit alten Feedbacks zugreifen:
+Diese Datei enthält Bewertungen, Kommentare und Vorschläge zur Verbesserung früherer Antworten. Bitte berücksichtige diese Feedbacks, um typische Fehler zu vermeiden und deine Antwort bestmöglich an die Anforderungen anzupassen.liese die ersten six Feeddback.
+Nutze das Feedback als Leitfaden, um:
+1. Unvollständigkeiten in deinen Antworten zu vermeiden.
+2. Präzise und nachvollziehbare Antworten zu liefern.
+3. Das vorgegebene Format exakt einzuhalten.
+
+Beachte: Wenn du auf das Feedback zugreifst, verweise nicht direkt darauf, sondern nutze die enthaltenen Informationen, um deine Antwort zu optimieren.
+
+
+Wichtige Hinweise:
+
+Die Antwort enthält nur die Tabelle in einem SCV Format.
+Keine weiteren Kommentare oder Erklärungen hinzufügen.
+Einheitlichkeit der Tabelle sicherstellen.
+die Spalten sind vollständig und richtig ausgefüllt
+
+
+
+
+
+**Kontrollfragen:**
+   - Wurden alle identifizierten Stakeholder direkt aus den Nutzerdaten extrahiert?
+   - Enthält die Tabelle nur Stakeholder-Gruppen, die explizit erwähnt wurden?
+     Ist die Stakeholder-Liste vollständig im vorgegebenen Format dargestellt?
+     Ist die Antwort nur als Tabelle gliefert, und keine eine weiteren Kommentare oder Erklärungen hinzufügt werden?
+
+
+
+
+Nutzerdaten : <Daten>
+Relevanz-Muster: <Muster>
+Feedback-Datei: <Feedback>

@@ -1,0 +1,148 @@
+
+
+
+
+
+---
+#### Ergebnisformat:
+[Name des Schritts]: nicht vollständig.
+Score: 5
+Feedback:
+- Was wurde erwartet? Eine konsolidierte Tabelle, die alle Einträge aus den beiden Tabellen enthält, keine Duplikate aufweist, alle relevanten Informationen in einer einheitlichen Struktur behält und fehlende oder nicht zugeordnete Einträge in einer separaten Kategorie darstellt.
+- Was wurde geliefert? Es wurde nur eine teilweise konsolidierte Tabelle erstellt, jedoch fehlt die Berücksichtigung der relevanten Informationen und die Kennzeichnung von nicht zugeordneten Einträgen.
+
+Empfohlene Schritte zur Verbesserung:
+- Kombiniere alle Einträge aus den beiden Input-Tabellen und behalte die Spalten "Stakeholder-Gruppe", "Anliegen" und "Relevantes Thema" bei.
+- Entferne Duplikate, die in allen Spalten identisch sind.
+- Markiere Einträge, die keinem Stakeholder oder Thema zugeordnet sind, als "nicht zugeordnet".
+- Stelle sicher, dass die Tabelle vollständig und einheitlich ist.
+
+---
+#### Ergebnisformat:
+Name des Schritts: Zusammengeführte Anliegetabellen
+Score: 8
+Feedback:
+- Erwartet: Eine konsolidierte Tabelle mit allen Einträgen aus den beiden Tabellen, ohne Duplikate, mit richtiger Zuordnung und separater Darstellung für nicht zugeordnete Einträge.
+- Geliefert: Die Tabelle enthält die Stakeholder-Gruppe, Anliegen und Relevantes Thema. Duplikate wurden entfernt, und nicht zugeordnete Einträge sind markiert. Einige Felder sind jedoch nicht einheitlich formatiert.
+
+Empfohlene Schritte zur Verbesserung:
+1. Stelle sicher, dass alle Einträge einheitlich formatiert sind, z.B. durchgängige Groß- und Kleinschreibung.
+2. Prüfe die Konsistenz in der Darstellung nicht zugeordneter Einträge, um eine klare Unterscheidung zu gewährleisten.
+
+
+
+---
+#### Ergebnisformat:
+Zusammengeführte Anliegetabellen: vollständig.
+Score: 10
+Feedback:
+- Vollständigkeit und Validität der Spalten: Alle Spalten sind vollständig und korrekt ausgefüllt.
+- Keine Duplikate: Es wurden keine doppelten Einträge gefunden. 
+
+Die Tabelle entspricht den Anforderungen des SOLL-Zustands und ist konsistent formatiert.
+
+---
+Zusammengeführte Anliegetabellen: vollständig.
+Score: 10
+Feedback:
+- Es wurde erwartet, dass alle Anliegen aus den beiden Tabellen konsolidiert und korrekt eingetragen werden.
+- Es wurden Stakeholder-Gruppe, Anliegen und Relevantes Thema aus beiden Tabellen erfolgreich zusammengeführt.
+
+Die Antwort entspricht dem SOLL-Zustand und ist vollständig.
+
+---
+[Name des Schritts]: nicht-vollständig.
+Score: 5
+Feedback:
+- Was wurde erwartet? Eine konsolidierte SCV-Tabelle, die alle Einträge aus den beiden Tabellen enthält.
+- Was wurde geliefert? Eine Tabelle mit den Stakeholder-Gruppen, Anliegen und Relevanten Themen, aber es gibt noch nicht zugeordnete Einträge.
+- Empfohlene Schritte zur Verbesserung: Fülle die nicht zugeordneten Einträge aus oder markiere sie korrekt als "nicht zugeordnet", um die Tabelle vollständig zu machen.
+
+---
+Zusammengeführte Anliegetabellen: nicht-vollständig.
+Score: 5
+Feedback:
+- Was wurde erwartet: Eine konsolidierte SCV-Tabelle, die alle Einträge aus den beiden Tabellen enthält, wobei alle Spalten für "Stakeholder-Gruppe", "Anliegen" und "Relevantes Thema" vollständig und korrekt ausgefüllt sind, sowie keine Duplikate existieren.
+- Was wurde geliefert: Es wurden Einträge für verschiedene Stakeholder-Gruppen und deren Anliegen und relevante Themen bereitgestellt. Jedoch sind nicht alle Zellen ausgefüllt, es gibt Einträge, die als "nicht zugeordnet" markiert sind.
+
+Empfohlene Schritte zur Verbesserung:
+1. Fülle alle leeren Zellen mit den entsprechenden Informationen für "Anliegen" und "Relevantes Thema" aus.
+2. Überprüfe die Tabellen auf Duplikate und entferne sie.
+3. Stelle sicher, dass die Einträge konsistent und vollständig sind, bevor du die Tabelle erneut einreichst.
+
+---
+Zusammengeführte Anliegetabellen: nicht-vollständig.
+Score: 5
+Feedback:
+- Was wurde erwartet: Eine konsolidierte Tabelle mit vollständig und korrekt ausgefüllten Spalten für Stakeholder-Gruppe, Anliegen und Relevantes Thema.
+- Was wurde geliefert: Die Tabelle enthält einige Einträge, jedoch fehlen die Zuordnungen bei einigen Anliegen.
+- Empfohlene Schritte zur Verbesserung: Fügen Sie fehlende Zuordnungen für Anliegen in die Tabelle ein, um Vollständigkeit und Klarheit zu gewährleisten. Stellen Sie sicher, dass alle Einträge korrekt und eindeutig sind.
+
+---
+Zusammengeführte Anliegetabellen: vollständig.
+Score: 10
+Feedback:
+- Erwartet wurde eine konsolidierte Tabelle, die alle Einträge aus den beiden Tabellen enthält.
+- Geliefert wurde eine Tabelle im CSV-ähnlichen Format mit den Spalten Stakeholder-Gruppe, Anliegen und Relevantes Thema, indem alle Einträge sauber zusammengeführt wurden. Es wurden keine Duplikate festgestellt.
+
+Da keine Fehler oder leere Zellen in der Tabelle vorhanden sind und die Formatierung konsistent ist, wird die Antwort als vollständig gewertet.
+
+---
+Zusammengeführte Anliegetabellen: vollständig.
+Score: 10
+Feedback:
+- Es wurde erwartet, dass eine konsolidierte Tabelle mit den Anliegen aller Stakeholder-Gruppen erstellt wird.
+- Die gelieferte Tabelle enthält alle Stakeholder-Gruppen, deren Anliegen und relevante Themen gemäß den Vorgaben.
+
+Da alle Anforderungen erfüllt sind und die Tabelle im geforderten Format vorliegt, wird hierfür die volle Punktzahl von 10 vergeben.
+
+---
+Zusammengeführte Anliegetabellen: vollständig.
+Score: 10
+Feedback:
+- Es wurde erwartet, dass alle Anliegen aus beiden Tabellen vollständig und korrekt in einer konsolidierten Tabelle zusammengeführt werden.
+- Alle Anliegen wurden ordnungsgemäß in der konsolidierten Tabelle aufgeführt.
+
+---
+Zusammengeführte Anliegetabellen: nicht-vollständig.
+Score: 7
+Feedback:
+- Was wurde erwartet? Eine konsolidierte Tabelle im CSV-ähnlichen Format.
+- Was wurde geliefert? Eine Tabelle im CSV-ähnlichen Format, jedoch sind einige Einträge als "Nicht zugeordnet" markiert, ohne weitere Angabe.
+
+Empfohlene Schritte zur Verbesserung:
+- Fülle alle leeren Einträge mit relevanten Informationen aus den beiden Tabellen.
+- Stelle sicher, dass alle Einträge vollständig und korrekt ausgefüllt sind, ohne "Nicht zugeordnet" als alleinigen Eintrag zu belassen.
+- Entferne Duplikate, falls vorhanden, um die Tabelle zu bereinigen.
+- Stelle sicher, dass die Formatierung der Tabelle konsistent ist, ohne überflüssige Zeichen oder Leerzeichen.
+
+---
+Zusammengeführte Anliegetabellen: nicht-vollständig
+Score: 5
+Feedback:
+- Was wurde erwartet: Eine konsolidierte SCV-Tabelle, die alle Einträge aus den beiden Tabellen enthält, mit vollständig und korrekt ausgefüllten Spalten ohne Duplikate.
+- Was wurde geliefert: Eine Liste von Stakeholder-Gruppen, Anliegen und relevanten Themen, jedoch sind viele Einträge mit "nicht zugeordnet" versehen und es gibt einige fehlende Einträge.
+- Empfohlene Schritte zur Verbesserung: Fülle alle leeren Einträge korrekt aus, entferne eventuelle Duplikate und ergänze fehlende Informationen gemäß den Anforderungen aus dem SOLL-Zustand. Stelle sicher, dass die Tabelle im CSV-ähnlichen Format vorliegt und keine überflüssigen Zeichen enthält.
+
+---
+Zusammengeführte Anliegetabellen: nicht-vollständig.
+Score: 5
+Feedback:
+- Erwartet wurden vollständig und korrekt ausgefüllte Spalten für Stakeholder-Gruppe, Anliegen und Relevantes Thema.
+- Im IST-Zustand sind leere Einträge in den Spalten für Lokale Gemeinden, Verbesserung der Lieferketten-Transparenz, Reduktion von Schadstoffemissionen und Kulturelle Diversität nicht als "nicht zugeordnet" markiert.
+- Empfohlene Schritte zur Verbesserung: Fülle die leeren Zellen in den genannten Spalten korrekt aus oder markiere sie eindeutig als "nicht zugeordnet". Stelle sicher, dass alle Spalten vollständig und korrekt ausgefüllt sind.
+
+---
+Zusammengeführte Anliegetabellen: nicht-vollständig.
+Score: 5
+Feedback:
+- Was wurde erwartet: Eine konsolidierte SCV-Tabelle, die alle Einträge aus den beiden Tabellen enthält, mit vollständig und korrekt ausgefüllten Spalten für "Stakeholder-Gruppe", "Anliegen" und "Relevantes Thema". Leere Einträge sollten als "nicht zugeordnet" markiert sein. Duplikate sollten entfernt werden.
+- Was wurde geliefert: Eine Tabelle im CSV-ähnlichen Format wurde geliefert, jedoch fehlen Einträge für "Relevantes Thema" in einigen Zeilen.
+- Empfohlene Schritte zur Verbesserung: Fügen Sie fehlende Einträge für "Relevantes Thema" in allen Zeilen hinzu und stellen Sie sicher, dass alle Spalten vollständig und korrekt ausgefüllt sind. Entfernen Sie auch Duplikate, falls vorhanden.
+
+---
+Zusammengeführte Anliegetabellen: vollständig.
+Score: 10
+Feedback:
+- Es wurde erwartet, eine konsolidierte Tabelle mit den Spalten Stakeholder-Gruppe, Anliegen und Relevantes Thema im CSV-ähnlichen Format zu liefern.
+- Der IST-Zustand enthält alle erforderlichen Einträge ohne Duplikate und leere Zellen, korrekt als "nicht zugeordnet" markiert. Die Formatierung der Tabelle ist konsistent.

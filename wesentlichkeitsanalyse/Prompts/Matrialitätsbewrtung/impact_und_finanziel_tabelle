@@ -1,0 +1,105 @@
+ Ziel
+Führe die Impact- und Finanzielle Wesentlichkeit zusammen, um eine endgültige Priorisierung der Themen vorzunehmen und die doppelte Materialität explizit auszuweisen.
+
+Falls nicht genügend Daten aus einem der beiden Schritte vorhanden sind, markiere das Thema als „weitere Analyse erforderlich“, anstatt eine Annahme zu treffen.
+
+📥 Eingabedaten
+✅ Impact-Wesentlichkeitsbewertung (aus Schritt 1)
+📌 Was: Eine Tabelle mit der Bewertung der gesellschaftlichen und ökologischen Auswirkungen eines Themas.
+📌 Warum: Zeigt, welche Themen aus gesellschaftlicher Perspektive höchste Relevanz haben.
+
+✅ Finanzielle Wesentlichkeitsbewertung (aus Schritt 2)
+📌 Was: Eine Tabelle mit der Bewertung der finanziellen Auswirkungen eines Themas.
+📌 Warum: Zeigt, welche Themen aus wirtschaftlicher Perspektive höchste Relevanz haben.
+
+ Anforderungen
+1️⃣ Kombiniere die Bewertungen aus die beide Tabellen  und erstelle eine konsolidierte Bewertung.
+2️⃣ Falls keine belastbaren Informationen vorhanden sind, treffe keine Annahmen, sondern markiere das Thema zur weiteren Analyse.
+3️⃣ Weise die Themen automatisch einer LSME-Kategorie zu (SBM-3, IR-3, IR-4 oder beides).
+4️⃣ Leite aus den Bewertungen automatisch eine finale empfohlene Maßnahme ab, die sowohl ESG- als auch finanzielle Faktoren berücksichtigt.
+5️⃣ Dokumentiere die Ergebnisse in einem strukturierten und nachvollziehbaren Format.
+
+📌 Schritte zur Berechnung & Maßnahmenableitung
+🔹 Schritt 1: Synchronisierung der Daten aus Impact- und Finanzielle Wesentlichkeit
+✅ Was tun? Ordne für jedes Thema die Bewertungen aus beiden Schritten zu.
+✅ Wie? Falls ein Thema nur in einer Tabelle vorhanden ist, kennzeichne es als „fehlende Daten“.
+
+🔹 Schritt 2: Vergleich der Bewertungen & Priorisierung der Themen
+✅ Was tun? Falls beide Bewertungen vorliegen, führe sie zusammen.
+✅ Wie?
+
+Berechnung der Gesamtpriorität:
+📌 Gesamtbewertung = (Impact-Wesentlichkeit × 0,5) + (Finanzielle Wesentlichkeit × 0,5)
+
+Bestimme die LSME-Kategorie anhand der Scores:
+
+Regel für Score-Zuordnung	LSME-Referenz
+Impact ≥ 1,5 & Finanziell < 1,5	SBM-3 (Impact-Materialität)
+Impact < 1,5 & Finanziell ≥ 1,5	IR-3, IR-4 (Finanzielle Materialität)
+Impact ≥ 1,5 & Finanziell ≥ 1,5	Beide (Doppelte Materialität → SBM-3 & IR-3/IR-4)
+🔹 Schritt 3: Automatische Maßnahmenableitung
+✅ Was tun? Basierend auf der Impact- und Finanzielle Wesentlichkeit, bestimme eine finale empfohlene Maßnahme, die sowohl ESG- als auch finanzielle Faktoren berücksichtigt.
+
+👉 Logik für die finale Maßnahme:
+
+Falls beide Bewertungen hoch sind (doppelte Wesentlichkeit ≥ 2,5):
+Kombiniere die ESG- & finanzielle Maßnahme zu einer integrierten Lösung.
+Falls nur Impact hoch ist (≥ 2,5 & finanziell < 1,5):
+Fokus auf nachhaltige Optimierung & ESG-Strategien.
+Falls nur Finanzielle Wesentlichkeit hoch ist (≥ 2,5 & Impact < 1,5):
+Fokus auf finanzielle Risikominimierung & regulatorische Maßnahmen.
+Falls beide Bewertungen gering sind (< 1,5):
+Keine akute Maßnahme erforderlich, aber das Thema kann langfristig beobachtet werden.
+📌 Berechnung der Gesamtpriorität & Priorisierung der Themen
+Falls eine Bewertung aus beiden Schritten (Impact & Finanzielle Wesentlichkeit) vorliegt, berechne die Gesamtbewertung:
+
+📌 Gesamtbewertung = (Impact-Wesentlichkeit × 0,5) + (Finanzielle Wesentlichkeit × 0,5)
+
+Falls eine der Bewertungen fehlt, markiere das Thema als „weitere Analyse erforderlich“ und trage es in der Spalte "Priorität".
+
+📌 Priorisierung nach Gesamtbewertung:
+
+Gesamtbewertung	Priorität	Empfohlene Maßnahmen
+≥ 2,5	Hoch	Kritische ESG-Risiken, müssen dringend adressiert werden
+1,5 – 2,4	Mittel	Relevante Themen, Maßnahmen sollten geprüft werden
+< 1,5	Gering	Geringe Bedeutung, keine unmittelbaren Maßnahmen erforderlich
+Falls ein Thema als „weitere Analyse erforderlich“ markiert wurde, wird es nicht priorisiert, bis vollständige Daten vorliegen.
+
+📌 Formatvorgabe für das Ergebnis (mit finaler Maßnahme)
+
+
+Thema	Impact-Wesentlichkeit	Finanzielle Wesentlichkeit	Gesamtbewertung	Priorität	LSME-Referenz	Finale empfohlene Maßnahme
+CO₂-Reduktion	2,7	2,7	2,7	Hoch	Beide (SBM-3, IR-3/IR-4)	CO₂-Reduktionsstrategie & Emissionskostenoptimierung kombinieren
+Wasserverbrauch	2,5	1,3	2,2	Mittel	IR-3, IR-4 (Finanziell)	Effizientere Wassernutzung & Kostenreduktion in der Produktion
+Lieferketten-Compliance	1,2	2,8	2,0	Mittel	IR-3, IR-4	Strengere ESG-Audits & Lieferantenverträge mit Nachhaltigkeitskriterien
+
+
+
+
+
+Wichtige Hinweise:
+Die Antwort enthält nur die Tabelle.
+Keine weiteren Kommentare oder Erklärungen hinzufügen.
+Einheitlichkeit der Tabelle sicherstellen.
+
+Hinweis: Deine Antworten werden durch Spezialisten bewertet, um ihre Vollständigkeit, Präzision und Formatierung zu prüfen.
+Um deine Antwortqualität zu verbessern, kannst du auf die Feedback-Datei mit alten Feedbacks zugreifen:
+Diese Datei enthält Bewertungen, Kommentare und Vorschläge zur Verbesserung früherer Antworten. Bitte berücksichtige diese Feedbacks, um typische Fehler zu vermeiden und deine Antwort bestmöglich an die Anforderungen anzupassen.liese die ersten six Feeddback.
+Nutze das Feedback als Leitfaden, um:
+1. Unvollständigkeiten in deinen Antworten zu vermeiden.
+2. Präzise und nachvollziehbare Antworten zu liefern.
+3. Das vorgegebene Format exakt einzuhalten.
+
+Beachte: Wenn du auf das Feedback zugreifst, verweise nicht direkt darauf, sondern nutze die enthaltenen Informationen, um deine Antwort zu optimieren.
+
+
+8️ Kontrollfragen
+ Sind alle Themen aus beiden Schritten vollständig analysiert?
+ Falls eine Bewertung fehlt, wurde sie dokumentiert, statt geschätzt?
+ Ist die finale Priorisierung klar nachvollziehbar?
+ Ist das Ergebnis vollständig im vorgegebenen Tabellenformat dargestellt?
+
+
+
+Impact-Wesentlichkeitsbewertung: <Impact>
+Finanzielle Wesentlichkeitsbewertung: <Finance>

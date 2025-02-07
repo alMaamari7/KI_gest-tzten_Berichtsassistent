@@ -1,0 +1,153 @@
+Bewerte und dokumentiere relevante Prozesse entlang der Wertschöpfungskette in den Bereichen:
+
+Upstream: Rohstoffbeschaffung, Lieferkette, Transport
+Interne Prozesse: Produktion, Energieverbrauch, Logistik
+Downstream: Recycling, Kundennutzung, Entsorgung
+Erstelle eine strukturierte Tabelle, die für jeden Bereich relevante Prozesse, Quellen und Anmerkungen systematisch erfasst.
+
+Falls keine Daten bezüglich auf die Quellen und Anmerkungen verfügbar sind, kennzeichne diese mit „Fehlende Daten“, anstatt Annahmen zu
+
+2️⃣ Eingabedaten
+✅ Nutzerdaten
+
+Was: Unternehmensberichte, Lieferantendokumente, Nachhaltigkeitsberichte, ESG-Analysen.
+Warum: Enthält explizite Informationen zu Prozessen, z. B. Wasserverbrauch, CO₂-Emissionen oder Lieferketten-Audits.
+✅ Muster
+
+Was: Vorgaben zur Wertschöpfungskette mit typischen ESG-Risiken und -Chancen für verschiedene Branchen.
+Warum: Stellt sicher, dass keine kritischen Prozesse übersehen werden und bietet Branchenkontext.
+✅ Stakeholder-Anliegen-Bewertung
+
+Was: Liste mit priorisierten ESG-Themen basierend auf Stakeholder-Anforderungen.
+Warum: Zeigt, welche Prozesse Stakeholder als kritisch einstufen, um eine gezielte Analyse sicherzustellen.
+
+
+3️⃣ Anforderungen
+1️⃣ Kombiniere die Stakeholderanliegen, Muster und Nutzerdaten, um die Wertschöpfungskette präzise zu kartieren.
+3 Falls ein Prozess nicht explizit erwähnt wird, aber indirekt relevant ist, markiere dies mit „Weitere Analyse erforderlich“.
+3️⃣ Falls keine Daten verfügbar sind, kennzeichne sie als „Fehlende Daten“.
+4️⃣ Erstelle eine klare und vollständige Tabelle mit den Spalten:
+
+Bereich (Upstream, Interne Prozesse, Downstream)
+Prozess/Aktivität (konkrete Maßnahme, keine abstrakten Begriffe)
+Quelle der Information (welches Dokument, Bericht oder Datensatz enthält die Info?)
+Anmerkungen (fehlende Daten oder notwendige Ergänzungen?)
+
+
+Schritte zur Erstellung der Tabelle
+🔹Schritt 1: Prozesse/Aktivitäten identifizieren
+✅ Was tun?
+
+Suche in den Nutzerdaten nach konkreten ESG-relevanten Prozessen entlang der Wertschöpfungskette.
+Nutze Muster und Stakeholder-Anliegen-Bewertung, um sicherzustellen, dass keine wichtigen Prozesse übersehen werden.
+✅ Eingabedaten für diese Spalte:
+
+Explizite Erwähnungen in Berichten
+Typische ESG-Risiken aus Mustern
+Anliegen in der Stakeholder-Anliegen-Tabelle
+✅ Falls kein Prozess explizit erwähnt wird:
+
+Keine Annahmen treffen.
+Markiere als „Weitere Analyse erforderlich“
+
+Schritt 1a: Zuordnung der Prozesse zu den Wertschöpfungsbereichen (Upstream, Interne Prozesse, Downstream)
+✅ Was tun?
+Ordne den identifizierten Prozess einem der drei Wertschöpfungsbereiche zu.
+
+✅ Regeln für die Zuordnung:
+
+Bereich	Typische Prozesse/Aktivitäten	Beispiel für Zuordnung
+Upstream	Rohstoffbeschaffung, Lieferkette, Transport, Zuliefereraudits	„Einsatz emissionsarmer Transportmethoden“ → Upstream
+Interne Prozesse	Produktion, Energieverbrauch, Wassermanagement, Arbeitssicherheit	„Optimierung der Produktionsenergieeffizienz“ → Interne Prozesse
+Downstream	Recyclingfähigkeit, Kreislaufwirtschaft, Produktlebenszyklus	„Erhöhung des Anteils recycelbarer Verpackungen“ → Downstream
+✅ Falls eine eindeutige Zuordnung nicht möglich ist:
+
+Markiere als „Weitere Analyse erforderlich“.
+🔹 Schritt 1b: Verknüpfung mit Stakeholder-Anliegen
+✅ Was tun?
+Jeder Prozess in der Wertschöpfungskette ist entweder:
+1️⃣ Eine direkte Antwort auf Stakeholder-Anforderungen (z. B. NGOs fordern „Transparenz in der Lieferkette“ → Prozess = „Lieferanten-ESG-Audits“).
+2️⃣ Ein Prozess, der indirekt mit Stakeholder-Anforderungen zusammenhängt (z. B. „Energieverbrauch reduzieren“ könnte durch gesetzliche Anforderungen, aber auch durch Investorenforderungen getrieben sein).
+
+✅ Wie wird die Verknüpfung durchgeführt?
+
+Prüfe in der Stakeholder-Anliegen-Bewertung, ob ein Prozess eine direkte Verbindung zu einem Anliegen hat.
+Falls ja → Verknüpfe den Prozess mit dem entsprechenden Stakeholder-Anliegen.
+Falls kein direkter Bezug existiert, prüfe, ob das Muster oder die Nutzerdaten eine indirekte Verbindung aufzeigen.
+Falls keine Verbindung erkennbar ist, lasse das Feld leer oder kennzeichne es als „keine direkte Stakeholder-Verknüpfung“.
+✅ Eingabedaten für diese Spalte:
+
+Stakeholder-Anliegen-Bewertungstabelle
+Relevanzmuster
+✅ Falls kein Stakeholder-Anliegen zugeordnet werden kann:
+
+Dokumentiere dies explizit (z. B. „Keine Stakeholder-Anforderungen erkennbar“).
+
+Schritt 2: Quelle der Information bestimmen
+✅ Was tun?
+
+Identifiziere konkrete Dokumente oder Berichte, die die Prozesse belegen.
+Falls kein explizites Dokument genannt wird, prüfe welche Quelle am nächsten liegt.
+✅ Eingabedaten für diese Spalte:
+
+Explizite Erwähnungen in den Nutzerdaten.
+Falls keine Quelle genannt wird, überprüfe branchenspezifische Muster oder Stakeholder-Anforderungen.
+✅ Falls keine Quelle gefunden wird:
+
+Trage „Fehlende Daten“ in die Spalte ein.
+
+Schritt 3: Anmerkungen formulieren
+✅ Was tun?
+
+Falls Informationen fehlen oder unklar sind, erkläre was genau fehlt.
+Falls gesetzliche oder strategische Relevanz besteht, dokumentiere dies.
+✅ Eingabedaten für diese Spalte:
+
+Vergleich mit den Mustern und Stakeholder-Anforderungen (z. B. „Investoren fordern detaillierte Daten zur Recyclingfähigkeit, aber es gibt keine entsprechenden Berichte.“).
+Überprüfung der Nutzerdaten (Falls der ESG-Bericht 2022 nur allgemeine Aussagen über Recycling enthält, könnte stehen: „Detaillierte ESG-Daten zu Recycling erforderlich.“).
+✅ Falls keine klare Handlungsanweisung ableitbar ist:
+
+Schreibe „Weitere Analyse erforderlich“ mit einer kurzen Begründung
+
+#### Wichtige Hinweise:
+1. Die Antwort enthält ausschließlich die Tabelle.
+2. Keine weiteren Kommentare oder Erklärungen hinzufügen.
+
+
+
+####Hinweis: Deine Antworten werden durch Spezialisten bewertet, um ihre Vollständigkeit, Präzision und Formatierung zu prüfen.
+Um deine Antwortqualität zu verbessern, kannst du auf die Feedback-Datei mit alten Feedbacks zugreifen:
+Diese Datei enthält Bewertungen, Kommentare und Vorschläge zur Verbesserung früherer Antworten. Bitte berücksichtige diese Feedbacks, um typische Fehler zu vermeiden und deine Antwort bestmöglich an die Anforderungen anzupassen.liese die ersten six Feeddback.
+Nutze das Feedback als Leitfaden, um:
+1. Unvollständigkeiten in deinen Antworten zu vermeiden.
+2. Präzise und nachvollziehbare Antworten zu liefern.
+3. Das vorgegebene Format exakt einzuhalten.
+
+Beachte: Wenn du auf das Feedback zugreifst, verweise nicht direkt darauf, sondern nutze die enthaltenen Informationen, um deine Antwort zu optimieren.
+
+
+Format der Zuordnung in die Wertschöpfungskette
+
+
+| Bereich           | Prozess/Aktivität                      | Quelle der Information               | Anmerkungen                            |
+|------------------|--------------------------------------|--------------------------------------|--------------------------------------|
+| Upstream        | Materialbeschaffung durch Zulieferer | Stakeholder-Bewertung, Lieferantendaten | CO₂-Emissionen unklar               |
+| Interne Prozesse | Energieverbrauch in der Produktion  | Produktionsbericht 2023              | Keine regionalen Daten verfügbar    |
+
+
+
+
+
+
+6️⃣ Kontrollfragen
+✅ Sind alle relevanten Prozesse und Aktivitäten in den Stakeholderdaten und Mustern identifiziert?
+✅ Falls eine Zuordnung fehlt, wurden alternative Datenquellen geprüft?
+✅ Falls keine Zuordnung möglich ist, wurde das Thema zur weiteren Analyse markiert, statt eine Annahme zu treffen?
+✅ Ist die gesamte Wertschöpfungskette systematisch dokumentiert?
+
+
+
+Relevanz-Muster: <Muster>
+Nutzerdaten: <Daten>
+Stakeholder-Tabelle: <Stakeholder>
+Feedback: <Feedback>

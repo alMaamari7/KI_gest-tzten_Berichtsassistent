@@ -1,0 +1,114 @@
+Ziel
+Bewerte die Impact-Wesentlichkeit der relevanten ESG-Themen und leite basierend auf der Analyse eine empfohlene Maßnahme ab, um negative Auswirkungen auf Umwelt, Gesellschaft oder Stakeholder zu minimieren.
+
+Falls nicht genügend Daten vorhanden sind, markiere das Thema als „weitere Analyse erforderlich“, anstatt eine Annahme zu treffen.
+
+2️ Eingabedaten
+ RelevanzMuster:
+Was: Eine strukturierte Tabelle mit relevanten Themen (Stakeholder, Umweltauswirkungen, Geschäftsbezug).
+Warum: Dient als Grundlage zur Identifizierung der Themen und stellt den Bezug zur Wertschöpfungskette sicher.
+
+ Stakeholderanliegen-Bewertungstabelle:
+Was: Eine Tabelle mit Stakeholder-Anliegen, die nach Relevanz (hoch, mittel, gering) bewertet wurden.
+Warum: Essentiell zur Bewertung, welche Themen aus gesellschaftlicher Sicht besonders relevant sind.
+
+ ESG-Risiken und Chancen entlang der Wertschöpfungskette:
+Was: Eine Liste mit finanziellen Größenordnungen, Eintrittswahrscheinlichkeiten und langfristigen Auswirkungen der ESG-Risiken und Chancen.
+Warum: Wesentlich zur Bewertung der finanziellen Relevanz.
+
+ Zusätzliche Datenquellen (Nutzerdaten):
+Falls im Stakeholderanliegen-Datensatz keine direkten Informationen verfügbar sind, prüfe alternative die Datenquellen .
+Falls auch hier keine eindeutigen Informationen gefunden werden, markiere das Thema als „weitere Analyse erforderlich“, statt eine Schätzung vorzunehmen.
+
+3️ Anforderungen
+1️⃣ Nutze die Stakeholderanliegen-Bewertungstabelle als Hauptquelle.
+3️⃣ Falls keine belastbaren Informationen gefunden werden, treffe keine Annahmen, sondern markiere das Thema zur weiteren Analyse.
+4️⃣ Leite basierend auf der Impact-Wesentlichkeitsbewertung eine Maßnahme ab, um negative ESG-Auswirkungen zu minimieren.
+5️⃣ Dokumentiere die Ergebnisse in einem strukturierten und nachvollziehbaren Format.
+
+4️ Schritte
+ Schritt 1: Analyse des RelevanzMusters
+Was tun: Extrahiere jedes Thema und überprüfe seine Impact-Relevanz.
+ Wie: Identifiziere Verbindungen zwischen Themen und potenziellen Umwelt- und Sozialauswirkungen.
+
+ Schritt 2: Bewertung mit der Stakeholderanliegen-Bewertungstabelle
+ Was tun: Prüfe, ob das Thema in der Stakeholderanliegen-Tabelle bewertet wurde.
+Wie: Falls das Thema dort erfasst ist, übernehme die Bewertung für Schweregrad, Reichweite, Irreparabilität und Wahrscheinlichkeit.
+
+ Schritt 3: Alternative Datenquellen prüfen
+ Falls das Thema nicht in der Stakeholder-Tabelle enthalten ist:
+Suche nach Informationen in den bereitgestellten Nutzerdaten.
+Falls keine expliziten Werte vorhanden sind, prüfe Vergleichswerte aus Branchenreports oder ESG-Indikatoren.
+Schritt 4: Automatische Maßnahmenableitung
+✅ Basierend auf der Bewertung, formuliere eine maßgeschneiderte Maßnahme zur Reduzierung der negativen ESG-Auswirkungen.
+
+👉 Logik für die Maßnahmenableitung:
+
+Falls Impact-Wesentlichkeit ≥ 2,5 (Hoch): Eine dringende Maßnahme zur Reduzierung der negativen ESG-Auswirkungen wird empfohlen.
+Falls Impact-Wesentlichkeit 1,5 – 2,4 (Mittel): Eine Optimierungsmaßnahme wird empfohlen.
+Falls Impact-Wesentlichkeit < 1,5 (Gering): Keine akute Maßnahme erforderlich, aber das Thema sollte beobachtet werden.
+
+
+ Schritt 5: Intelligente Lückenanalyse
+Falls auch in alternativen Quellen keine ausreichenden Informationen gefunden werden:
+
+Markiere das Thema als „weitere Analyse erforderlich“, anstatt eine Schätzung vorzunehmen.
+Dokumentiere, welche Daten fehlen, um eine vollständige Bewertung durchzuführen.
+5️ Bewertungskriterien und Skalen
+Falls eine Bewertung möglich ist, berechne die Impact-Wesentlichkeit anhand der folgenden Kriterien:
+
+Kriterium	Bedeutung	Skala
+Schweregrad (40%)	Wie stark sind die Auswirkungen auf Umwelt, Gesellschaft oder Stakeholder?	Hoch (3): Kritische Systeme, signifikante Schäden (z. B. irreversible Umweltzerstörung, soziale Unruhen).
+Mittel (2): Regionale Auswirkungen, teilweise kritisch, aber lösbar (z. B. CO₂-Ausstoß, begrenzte soziale Probleme).
+Gering (1): Lokale, begrenzte Auswirkungen mit geringer Intensität.
+Reichweite (30%)	Wie viele Stakeholder oder Regionen sind betroffen?	Hoch (3): Globaler Einfluss oder betrifft mehr als 75 % der Stakeholder.
+Mittel (2): Regionaler Einfluss oder betrifft 25–75 % der Stakeholder.
+Gering (1): Lokale Auswirkungen oder betrifft weniger als 25 % der Stakeholder.
+Irreparabilität (20%)	Wie schwer oder unmöglich ist es, die Auswirkungen eines Themas zu beheben?	Hoch (3): Irreversible Schäden (z. B. Artensterben, dauerhafte Landzerstörung).
+Mittel (2): Reversible Schäden, aber mit hohem Aufwand (z. B. Wasserverbrauch, soziale Konflikte).
+Gering (1): Schäden sind leicht zu beheben (z. B. kurzfristige Umweltverschmutzung).
+Wahrscheinlichkeit (10%)	Wie wahrscheinlich ist der Eintritt der Auswirkungen?	Hoch (3): >75 % Wahrscheinlichkeit (z. B. bereits beobachtete Trends).
+Mittel (2): 25–75 % Wahrscheinlichkeit.
+Gering (1): <25 % Wahrscheinlichkeit (z. B. rein hypothetische Risiken).
+6️ Berechnung der Impact-Wesentlichkeitsbewertung
+Falls alle Daten vorhanden sind, berechne die Bewertung mit folgender Formel:
+Gesamtbewertung=(Schweregrad×0,4)+(Reichweite×0,3)+(Irreparabilitt×0,2)+(Wahrscheinlichkeit×0,1)
+Falls keine vollständige Bewertung möglich ist, dokumentiere das Thema als „weitere Analyse erforderlich“ und liste die fehlenden Daten auf.
+
+7️ Formatvorgabe für das Ergebnis
+
+
+| Thema          | Schweregrad | Reichweite | Irreparabilität | Wahrscheinlichkeit | Gesamtscore Impact-Wesentlichkeit | Priorität |Empfohlene Maßnahme
+|---------------|------------|------------|----------------|--------------------|----------------------------------|-----------|-----------|Erneuerbare Energien ausbauen & CO₂-Emissionen reduzieren
+| Wasserknappheit | Hoch (3)   | Mittel (2) | Hoch (3)       | Mittel (2)        | 2,7                              | Hoch      |
+
+
+
+
+
+
+Wichtige Hinweise:
+Die Antwort enthält nur die Tabelle.
+Keine weiteren Kommentare oder Erklärungen hinzufügen.
+Einheitlichkeit der Tabelle sicherstellen.
+
+Hinweis: Deine Antworten werden durch Spezialisten bewertet, um ihre Vollständigkeit, Präzision und Formatierung zu prüfen.
+Um deine Antwortqualität zu verbessern, kannst du auf die Feedback-Datei mit alten Feedbacks zugreifen:
+Diese Datei enthält Bewertungen, Kommentare und Vorschläge zur Verbesserung früherer Antworten. Bitte berücksichtige diese Feedbacks, um typische Fehler zu vermeiden und deine Antwort bestmöglich an die Anforderungen anzupassen.liese die ersten six Feeddback.
+Nutze das Feedback als Leitfaden, um:
+1. Unvollständigkeiten in deinen Antworten zu vermeiden.
+2. Präzise und nachvollziehbare Antworten zu liefern.
+3. Das vorgegebene Format exakt einzuhalten.
+
+Beachte: Wenn du auf das Feedback zugreifst, verweise nicht direkt darauf, sondern nutze die enthaltenen Informationen, um deine Antwort zu optimieren.
+
+
+8️ Kontrollfragen
+ Sind alle Themen aus dem RelevanzMuster vollständig analysiert?
+ Wurden die Stakeholderanliegen berücksichtigt, sofern Daten vorhanden waren?
+ Falls Daten fehlen, wurden sie klar dokumentiert, anstatt eine Annahme zu treffen?
+ Ist das Ergebnis nachvollziehbar und klar strukturiert?
+
+RelevanzMuster: <Muster>
+Stakeholderanliegen-Bewertungstabelle: <Stakeholder>
+Nutzerdaten: <daten>

@@ -1,0 +1,104 @@
+2025-01-27 20:27:36,868 - Backend_Wesentlichkeitsanalyse - INFO - Received POST request at http://localhost:8000/process/step1
+2025-01-27 20:27:45,858 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 20:27:48,080 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 20:27:50,431 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 20:27:54,893 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 20:27:56,868 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 20:28:01,481 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 20:28:03,128 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 20:28:06,602 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 20:28:08,385 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 20:28:12,222 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 20:28:14,075 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 20:28:14,101 - Backend_Wesentlichkeitsanalyse - INFO - Stakeholder data processing completed in 37.23 seconds
+2025-01-27 20:28:14,101 - Backend_Wesentlichkeitsanalyse - INFO - Step 1 processing completed in 37.23 seconds
+2025-01-27 20:30:18,014 - Backend_Wesentlichkeitsanalyse - INFO - Received POST request at http://localhost:8000/process/step1
+2025-01-27 20:30:24,653 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 20:30:26,063 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 20:30:28,631 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 20:30:31,803 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 20:30:35,486 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 20:30:39,280 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 20:30:41,616 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 20:30:44,576 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 20:30:46,347 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 20:30:50,118 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 20:30:53,086 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 20:30:53,102 - Backend_Wesentlichkeitsanalyse - INFO - Stakeholder data processing completed in 35.09 seconds
+2025-01-27 20:30:53,102 - Backend_Wesentlichkeitsanalyse - INFO - Step 1 processing completed in 35.09 seconds
+2025-01-27 20:37:38,919 - Backend_Wesentlichkeitsanalyse - INFO - Received POST request at http://localhost:8000/process/step1
+2025-01-27 20:37:45,756 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 20:37:47,291 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 20:37:49,122 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 20:37:54,453 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 20:37:57,555 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 20:38:07,037 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 20:38:08,997 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 20:38:11,221 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 20:38:12,473 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 20:38:16,347 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 20:38:18,603 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 20:38:18,619 - Backend_Wesentlichkeitsanalyse - INFO - Stakeholder data processing completed in 39.70 seconds
+2025-01-27 20:38:18,619 - Backend_Wesentlichkeitsanalyse - INFO - Step 1 processing completed in 39.70 seconds
+2025-01-27 21:02:02,512 - Backend_Wesentlichkeitsanalyse - INFO - Received POST request at http://localhost:8000/process/step1
+2025-01-27 21:02:11,967 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 21:02:13,714 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 21:02:16,466 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 21:02:20,463 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 21:02:23,828 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 21:02:28,548 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 21:02:30,999 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 21:02:33,769 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 21:02:36,433 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 21:02:39,676 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 21:02:40,995 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 21:02:41,018 - Backend_Wesentlichkeitsanalyse - ERROR - Table parsing error: Expected 3 fields in line 7, saw 4
+2025-01-27 21:02:41,018 - Backend_Wesentlichkeitsanalyse - INFO - Stakeholder data processing completed in 38.50 seconds
+2025-01-27 21:02:41,018 - Backend_Wesentlichkeitsanalyse - ERROR - Stakeholder data processing error: Failed to parse table: Expected 3 fields in line 7, saw 4
+2025-01-27 21:02:41,018 - Backend_Wesentlichkeitsanalyse - INFO - Step 1 processing completed in 38.50 seconds
+2025-01-27 21:02:41,018 - Backend_Wesentlichkeitsanalyse - ERROR - Validation error: Failed to process stakeholder data: Failed to parse table: Expected 3 fields in line 7, saw 4
+2025-01-27 21:07:17,602 - Backend_Wesentlichkeitsanalyse - INFO - Received POST request at http://localhost:8000/process/step1
+2025-01-27 21:07:31,223 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 21:07:32,233 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 21:07:34,800 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 21:07:40,420 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 21:07:43,557 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 21:07:48,307 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 21:07:51,164 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 21:07:54,233 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 21:07:56,479 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 21:08:00,636 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 21:08:02,532 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 21:08:02,532 - Backend_Wesentlichkeitsanalyse - ERROR - Table parsing error: Expected 3 fields in line 9, saw 4
+2025-01-27 21:08:02,532 - Backend_Wesentlichkeitsanalyse - INFO - Stakeholder data processing completed in 44.93 seconds
+2025-01-27 21:08:02,532 - Backend_Wesentlichkeitsanalyse - ERROR - Stakeholder data processing error: Failed to parse table: Expected 3 fields in line 9, saw 4
+2025-01-27 21:08:02,532 - Backend_Wesentlichkeitsanalyse - INFO - Step 1 processing completed in 44.93 seconds
+2025-01-27 21:08:02,532 - Backend_Wesentlichkeitsanalyse - ERROR - Validation error: Failed to process stakeholder data: Failed to parse table: Expected 3 fields in line 9, saw 4
+2025-01-27 21:09:58,523 - Backend_Wesentlichkeitsanalyse - INFO - Received POST request at http://localhost:8000/process/step1
+2025-01-27 21:10:08,687 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 21:10:10,162 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 21:10:12,624 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 21:10:16,473 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 21:10:19,644 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 21:10:24,753 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 21:10:26,492 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 21:10:30,473 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 21:10:33,595 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 21:10:37,018 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 21:10:39,681 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 21:10:39,696 - Backend_Wesentlichkeitsanalyse - INFO - Stakeholder data processing completed in 41.17 seconds
+2025-01-27 21:10:39,696 - Backend_Wesentlichkeitsanalyse - INFO - Step 1 processing completed in 41.17 seconds
+2025-01-27 21:28:46,824 - Backend_Wesentlichkeitsanalyse - INFO - Received POST request at http://localhost:8000/process/step1
+2025-01-27 21:28:53,199 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 21:28:55,496 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 21:28:58,111 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 21:29:04,229 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 21:29:07,082 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 21:29:12,106 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 21:29:14,178 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 21:29:17,542 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 21:29:19,772 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 21:29:23,479 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 21:29:25,118 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-27 21:29:25,131 - Backend_Wesentlichkeitsanalyse - INFO - Stakeholder data processing completed in 38.31 seconds
+2025-01-27 21:29:25,131 - Backend_Wesentlichkeitsanalyse - INFO - Step 1 processing completed in 38.31 seconds

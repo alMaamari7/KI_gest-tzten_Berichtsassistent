@@ -1,0 +1,129 @@
+Ziel
+Analysiere die Anliegen der identifizierten Stakeholder, um sie mit relevanten ESG-Themen zu verknüpfen.
+
+Falls nicht genügend Daten für eine vollständige Zuordnung vorliegen, markiere das Thema als „weitere Analyse erforderlich“, anstatt eine Annahme zu treffen.
+
+2️⃣ Eingabedaten
+✅ RelevanzMuster:
+
+Was: Eine strukturierte Vorlage, die ESG-relevante Anliegen und Herausforderungen von Stakeholdern beschreibt.
+Warum: Dient als Referenzrahmen, um Stakeholder-Anliegen strukturiert zu erfassen.
+✅ Nutzerdaten:
+
+Was: Unternehmensberichte, Stakeholder-Kommunikation, Nachhaltigkeitsberichte etc.
+Warum: Enthält spezifische Erwähnungen von Stakeholder-Anliegen, die für das Unternehmen relevant sind.
+✅ ESG-Themen-Tabelle:
+
+Was: Eine Tabelle mit allen relevanten ESG-Themen, die den Bereichen Umwelt (E), Soziales (S) oder Governance (G) zugeordnet sind.
+Warum: Erlaubt eine gezielte Verknüpfung der Anliegen mit bestehenden ESG-Kategorien.
+✅ Zusätzliche Datenquellen (falls verfügbar):
+
+Falls im Relevanzmuster oder den Nutzerdaten keine eindeutige Verknüpfung möglich ist, prüfe alternative Datenquellen (z. B. Branchenstandards, bestehende ESG-Analysen).
+Falls auch hier keine eindeutigen Informationen gefunden werden, markiere das Thema als „weitere Analyse erforderlich“, statt eine Annahme vorzunehmen.
+3️⃣ Anforderungen
+1️⃣ Kombiniere Relevanzmuster, ESG-Themen-Tabelle und Nutzerdaten, um eine präzise Stakeholder-Anliegen-Zuordnung zu erstellen.
+2️⃣ Falls ein Anliegen nicht eindeutig einem Stakeholder oder ESG-Thema zugeordnet werden kann, dokumentiere es separat..
+3️⃣ Falls keine belastbaren Informationen vorhanden sind, treffe keine Annahmen, sondern markiere das Thema zur weiteren Analyse.
+4️⃣ Dokumentiere die Ergebnisse in einem nachvollziehbaren und strukturierten Format.
+
+
+Schritte
+🔹 Schritt 1: Identifikation von Stakeholder-Anliegen aus den Relevanzmustern
+✅ Was tun: Liste alle Anliegen auf, die explizit im Relevanzmuster erwähnt werden.
+✅ Wie: Durchsuche die bereitgestellten Muster nach explizit und implizit formulierten Anliegen, Erwartungen oder Anforderungen.
+Extrahiere Anliegen unabhängig davon, ob sie direkt mit Stakeholdern in Verbindung stehen.
+Beispiele für Anliegen:
+„Faire Arbeitsbedingungen.“
+„Nachhaltige Produkte.“
+„Transparenz in der Lieferkette.“
+✅ Wozu: Das Relevanzmuster stellt eine erste Referenz für bestehende Anliegen dar.
+
+
+Schritt 2: Ergänzung durch Stakeholder-Anliegen aus den Nutzerdaten
+✅ Was tun: Suche in den Nutzerdaten nach zusätzlichen oder detaillierten Anliegen.
+✅ Wie: Ergänze die Analyse durch eine offene Suche in die Nutzerdaten  nach Anliegen oder Stakeholdern, die im Relevanz-Muster nicht definiert sind:
+
+Falls ein neues Anliegen identifiziert wird, ergänze es in der Liste.
+Falls ein bestehendes Anliegen genauer beschrieben wird (z. B. „Lieferketten-Transparenz für Arbeitsrechte“ statt nur „Transparenzanforderungen“), ergänze die Detailinformationen.
+✅ Wozu: Sicherstellen, dass die Anliegen vollständig und aktuell sind.
+
+
+Schritt 3: Verknüpfung der Stakeholder-Anliegen mit ESG-Themen
+✅ Was tun: Ordne jedes Stakeholder-Anliegen einem passenden ESG-Thema aus der ESG-Themen-Tabelle zu.
+✅ Wie: Falls ein Anliegen in der ESG-Themen-Tabelle bereits vorhanden ist, übernehme die ESG-Kategorie. Falls es kein direktes Match gibt, markiere das Anliegen zur „weiteren Analyse“.
+💡 Beispiel:
+Stakeholder-Anliegen: „Kunden fordern nachhaltige Verpackungen.“
+ESG-Thema: „Ressourceneffizienz & Recycling“
+Kategorie: Umwelt (E)
+
+
+Schritt 4: Zuordnung zu Stakeholdern
+Ordne die extrahierten Anliegen den bekannten Stakeholdern, die die in der bereitgestellten Stakeholder-Liste vorhanden sind zu , indem du die folgenden Regeln anwendest:
+Explizite Verweise:
+Suche nach direkten Erwähnungen von Stakeholdern in Bezug auf die Anliegen.
+Beispiel: „Mitarbeiter erwarten faire Arbeitsbedingungen.“ → Stakeholder = Mitarbeiter.
+Kontextuelle Hinweise:
+Falls keine direkte Erwähnung vorliegt, analysiere den Kontext des Anliegens.
+Nutze Schlüsselbegriffe oder thematische Zusammenhänge, um die Verbindung herzustellen:
+Beispiel: Anliegen = „Nachhaltige Produkte.“ → Stakeholder = Kunden.
+Beispiel: Anliegen = „Transparenz in der Lieferkette.“ → Stakeholder = NGOs.
+Assoziative Zuordnung:
+Ordne Anliegen Stakeholdern basierend auf bekannten Rollen und Erwartungen zu:
+Beispiel: „Arbeitsbedingungen verbessern.“ → Stakeholder = Mitarbeiter.
+Beispiel: „Energieeffizienz in der Produktion.“ → Stakeholder = Investoren.
+
+
+🔹 Schritt 5: Dokumentation von Anliegen ohne Stakeholder oder ESG-Themen
+✅ Was tun: Falls ein Anliegen keinem ESG-Thema oder keinem Stakeholder zugeordnet werden kann, dokumentiere es in einer separaten Tabelle.
+✅ Wie:
+
+Falls das Anliegen kein ESG-Thema hat, markiere es mit „Keine ESG-Themen-Zuordnung“.
+Falls das Anliegen keinem Stakeholder zugeordnet werden kann, markiere es mit „Unklare Verantwortlichkeiten“.
+
+
+
+
+4. Ausgabeformat
+Stakeholder-Gruppe	Anliegen	ESG-Thema	ESG-Kategorie
+Mitarbeiter	Faire Arbeitsbedingungen	Arbeitsrechte & Sicherheit	Soziales (S)
+Kunden	Nachhaltige Verpackungen	Ressourceneffizienz & Recycling	Umwelt (E)
+NGOs	Transparenz in der Lieferkette	Lieferketten-Compliance	Governance (G)
+
+
+
+Anliegen	Fehlende Daten	Status
+
+
+
+Wichtige Hinweise:
+Die Antwort muss immer die zwei Tabellen enthalten, auch wenn Sie leer sind.
+Die Antwort enthält nur die Tabelle in einem SCV Format.
+Keine weiteren Kommentare oder Erklärungen hinzufügen.
+Einheitlichkeit der Tabelle sicherstellen.
+die Spalten sind vollständig und richtig ausgefüllt
+
+
+
+Hinweis: Deine Antworten werden durch Spezialisten bewertet, um ihre Vollständigkeit, Präzision und Formatierung zu prüfen.
+Um deine Antwortqualität zu verbessern, kannst du auf die Feedback-Datei mit alten Feedbacks zugreifen:
+Diese Datei enthält Bewertungen, Kommentare und Vorschläge zur Verbesserung früherer Antworten. Bitte berücksichtige diese Feedbacks, um typische Fehler zu vermeiden und deine Antwort bestmöglich an die Anforderungen anzupassen. liese die ersten six Feeddback.
+Nutze das Feedback als Leitfaden, um:
+1. Unvollständigkeiten in deinen Antworten zu vermeiden.
+2. Präzise und nachvollziehbare Antworten zu liefern.
+3. Das vorgegebene Format exakt einzuhalten.
+
+Beachte: Wenn du auf das Feedback zugreifst, verweise nicht direkt darauf, sondern nutze die enthaltenen Informationen, um deine Antwort zu optimieren.
+
+6. Kontrollfragen
+ Sind alle Stakeholder-Anliegen aus den Relevanzmustern erfasst und bewertet?
+Falls eine Identifikation nicht möglich war, wurde das Thema zur weiteren Analyse markiert, statt eine Annahme zu treffen?
+Ist die Stakeholder-Anliegen-Liste vollständig im vorgegebenen Format dargestellt?
+Sind alle fehlenden Stakeholder- oder ESG-Themen-Zuordnungen in einer separaten Tabelle dokumentiert?
+Ist die Antwort nur als Tabelle gliefert, und keine eine weiteren Kommentare oder Erklärungen hinzufügt werden?
+
+
+
+Relevanz-Muster : <Muster>
+Nutzerdaten: <Daten>
+Stakeholder-Liste: <Stakeholder>
+Feedback-Datei: <Feedback>

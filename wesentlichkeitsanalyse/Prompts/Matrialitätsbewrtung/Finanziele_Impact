@@ -1,0 +1,114 @@
+Bewerte die finanzielle Wesentlichkeit der relevanten ESG-Themen und leite basierend auf der Analyse eine empfohlene Maßnahme ab, um finanzielle Risiken zu minimieren oder Chancen zu nutzen.
+
+Falls nicht genügend Daten vorhanden sind, markiere das Thema als „weitere Analyse erforderlich“, anstatt eine Annahme zu treffen.
+
+2️ Eingabedaten
+ RelevanzMuster:
+
+Was: Eine strukturierte Tabelle mit relevanten Themen (Stakeholder, Umweltauswirkungen, Geschäftsbezug).
+Warum: Dient als Grundlage zur Identifizierung der Themen und stellt den Bezug zur Wertschöpfungskette sicher.
+
+ ESG-Risiken und Chancen entlang der Wertschöpfungskette:
+Was: Eine Liste mit finanziellen Größenordnungen, Eintrittswahrscheinlichkeiten und langfristigen Auswirkungen der ESG-Risiken und Chancen.
+Warum: Wesentlich zur Bewertung der finanziellen Relevanz.
+
+ Stakeholderanliegen-Bewertungstabelle:
+Was: Eine Tabelle mit Stakeholder-Anliegen, die nach Relevanz (hoch, mittel, gering) bewertet wurden.
+Warum: Essentiell zur Bewertung, welche Themen aus gesellschaftlicher Sicht besonders relevant sind.
+
+ Zusätzliche Datenquellen (Nutzerdaten):
+Falls im ESG-Risiken-Datensatz keine direkten Informationen verfügbar sind, prüfe alternative Datenquellen (Nutzerdaten).
+Falls auch hier keine eindeutigen Informationen gefunden werden, markiere das Thema als „weitere Analyse erforderlich“, statt eine Schätzung vorzunehmen.
+
+3️ Anforderungen
+1️⃣ Nutze die ESG-Risiken- und Chancen-Tabelle sowie das Relevanzmuster als Hauptquelle.
+2️⃣ Falls dort keine Daten vorhanden sind, prüfe alternative Datenquellen.
+3️⃣ Falls keine belastbaren Informationen gefunden werden, treffe keine Annahmen, sondern markiere das Thema zur weiteren Analyse.
+4️⃣ Leite basierend auf der finanziellen Wesentlichkeitsbewertung eine Maßnahme ab, um das Risiko zu minimieren oder die Chance zu nutzen.
+5️⃣ Dokumentiere die Ergebnisse in einem strukturierten und nachvollziehbaren Format.
+
+4 Schritte
+ Schritt 1: Analyse des RelevanzMusters
+ Was tun: Extrahiere jedes Thema und überprüfe seine finanzielle Relevanz.
+ Wie: Identifiziere Verbindungen zwischen Themen und potenziellen finanziellen Auswirkungen.
+
+ Schritt 2: Bewertung mit der ESG-Risiken- und Chancen-Tabelle
+✅ Was tun? Prüfe, ob das Thema in der ESG-Risiken-Tabelle bewertet wurde.
+✅ Wie? Falls das Thema dort erfasst ist, übernehme die Werte für:
+
+Finanzielle Größenordnung (50%)
+Wahrscheinlichkeit (30%)
+Langfristige Auswirkungen (20%)
+🔹 Schritt 3: Alternative Datenquellen prüfen
+✅ Falls das Thema nicht in der ESG-Tabelle enthalten ist, suche nach relevanten Daten in Nutzerdaten oder Branchenberichten.
+✅ Falls keine relevanten Informationen gefunden werden, markiere das Thema als „weitere Analyse erforderlich“.
+
+🔹 Schritt 4: Automatische Maßnahmenableitung
+✅ Basierend auf der Bewertung, formuliere eine maßgeschneiderte Maßnahme zur Minimierung des finanziellen Risikos oder zur Nutzung einer finanziellen Chance.
+
+👉 Logik für die Maßnahmenableitung:
+
+Falls finanzielle Wesentlichkeit ≥ 2,5 (Hoch): Eine dringende Maßnahme zur Risikominimierung oder finanziellen Optimierung wird empfohlen.
+Falls finanzielle Wesentlichkeit 1,5 – 2,4 (Mittel): Eine strategische Anpassung oder Optimierung wird empfohlen.
+Falls finanzielle Wesentlichkeit < 1,5 (Gering): Keine akute Maßnahme erforderlich, aber das Thema sollte beobachtet werden.
+
+5 Bewertungskriterien und Skalen
+Falls eine Bewertung möglich ist, berechne die finanzielle Wesentlichkeit anhand der folgenden Kriterien:
+
+Kriterium	Bedeutung	Skala
+Finanzielle Größenordnung (50%)	Wie stark beeinflusst das Thema Umsatz, Kosten oder Kapitalzugang?	Hoch (3): >20 % des Umsatzes
+Mittel (2): 5–20 % des Umsatzes
+Gering (1): <5 % des Umsatzes
+Wahrscheinlichkeit (30%)	Wie wahrscheinlich ist es, dass das finanzielle Risiko oder die Chance eintritt?	Hoch (3): >75 % Wahrscheinlichkeit
+Mittel (2): 25–75 % Wahrscheinlichkeit
+Gering (1): <25 % Wahrscheinlichkeit
+Langfristige Auswirkungen (20%)	Wie stark beeinflusst das Thema die Wettbewerbsfähigkeit langfristig?	Hoch (3): Signifikante langfristige Auswirkungen
+Mittel (2): Moderate langfristige Auswirkungen
+Gering (1): Geringfügige oder keine langfristigen Auswirkungen
+
+6️ Berechnung der Wesentlichkeitsbewertung
+Falls alle Daten vorhanden sind, berechne die Bewertung mit folgender Formel:
+
+Gesamtbewertung =(Finanzielle Größenordnung×0,5)+(Wahrscheinlichkeit×0,3)+(LangfristigeAuswirkungen×0,2)
+Falls keine vollständige Bewertung möglich ist, dokumentiere das Thema als „weitere Analyse erforderlich“ und liste die fehlenden Daten auf.
+
+
+7️ Formatvorgabe für das Ergebnis
+
+
+| Thema         | Finanzielle Größenordnung | Wahrscheinlichkeit | Langfristige Auswirkungen | Gesamtscore Finanzielle Wesentlichkeit | Priorität |  Empfohlene Maßnahme        |
+|--------------|---------------------------|--------------------|---------------------------|----------------------------------------|-----------|-----------|
+| CO₂-Reduktion | Hoch (3)                  | Mittel (2)         | Hoch (3)                  | 2,7                                    | Hoch      |CO₂-Kosten durch Emissionshandel senken & Energieeffizienz steigern
+
+
+
+
+
+
+
+Wichtige Hinweise:
+Die Antwort enthält nur die Tabelle.
+Keine weiteren Kommentare oder Erklärungen hinzufügen.
+Einheitlichkeit der Tabelle sicherstellen.
+
+Hinweis: Deine Antworten werden durch Spezialisten bewertet, um ihre Vollständigkeit, Präzision und Formatierung zu prüfen.
+Um deine Antwortqualität zu verbessern, kannst du auf die Feedback-Datei mit alten Feedbacks zugreifen:
+Diese Datei enthält Bewertungen, Kommentare und Vorschläge zur Verbesserung früherer Antworten. Bitte berücksichtige diese Feedbacks, um typische Fehler zu vermeiden und deine Antwort bestmöglich an die Anforderungen anzupassen. liese die ersten six Feeddback.
+Nutze das Feedback als Leitfaden, um:
+1. Unvollständigkeiten in deinen Antworten zu vermeiden.
+2. Präzise und nachvollziehbare Antworten zu liefern.
+3. Das vorgegebene Format exakt einzuhalten.
+
+Beachte: Wenn du auf das Feedback zugreifst, verweise nicht direkt darauf, sondern nutze die enthaltenen Informationen, um deine Antwort zu optimieren.
+
+
+8️ Kontrollfragen
+ Sind alle Themen aus dem RelevanzMuster vollständig analysiert?
+ Wurden die ESG-Risiken und Chancen berücksichtigt, sofern Daten vorhanden waren?
+ Falls Daten fehlen, wurden sie klar dokumentiert, anstatt eine Annahme zu treffen?
+ Ist das Ergebnis nachvollziehbar und klar strukturiert?
+
+
+RelevanzMuster: <Muster>
+ESG-Risiken und Chancen entlang der Wertschöpfungskette: <ESG>
+Nutzerdaten: <daten>
