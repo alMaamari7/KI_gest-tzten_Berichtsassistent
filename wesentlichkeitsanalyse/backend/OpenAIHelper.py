@@ -1,6 +1,12 @@
 import os
+from pathlib import Path
 
+from dotenv import load_dotenv
 from openai import OpenAI
+
+
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+load_dotenv(PROJECT_ROOT / ".env")
 
 
 class OpenAIHelper:
@@ -13,7 +19,7 @@ class OpenAIHelper:
         if not self.api_key:
             raise ValueError(
                 "OPENAI_API_KEY is not configured. "
-                "Set it as an environment variable before running the application."
+                "Set it in the environment or in the project's .env file."
             )
 
         self.client = OpenAI(api_key=self.api_key)
