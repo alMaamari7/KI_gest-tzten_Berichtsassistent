@@ -7,7 +7,11 @@ import time
 from MaterialitätAnalyser import MaterialitaetAnalyser
 from Stakeholder import Stakeholder
 from WertschöpfungsketteAnlayser import ValueChainAnlayser
-
+from paths import (
+    STAKEHOLDER_PROMPTS_DIR,
+    VALUE_CHAIN_PROMPTS_DIR,
+    MATERIALITY_PROMPTS_DIR,
+)
 
 class DoupleMateriality ():
     def __init__(self):
@@ -30,20 +34,19 @@ class DoupleMateriality ():
         result_materiality = materiality.materialtaetpruefung(stakeholder, value_chain, nutzerdaten, muster)
         return result_materiality
 
-
 def main():
     with open(
-            r"C:\Users\asahm\Desktop\Asaad_HTW\Abschlussarbeit\Berichtserstellung_AI_Berater\wesentlichkeitsanalyse\Prompts\Stakeholder-Mapping\testdaten",
+            STAKEHOLDER_PROMPTS_DIR / "testdaten",
             "r") as f:
         data = f.read()
 
     with open(
-            r"C:\Users\asahm\Desktop\Asaad_HTW\Abschlussarbeit\Berichtserstellung_AI_Berater\wesentlichkeitsanalyse\Prompts\Wertschöpfungskette\stakeholder_test.txt",
+            VALUE_CHAIN_PROMPTS_DIR / "stakeholder_test.txt",
             "r") as x:
         stakeholder_test = x.read()
 
     with open(
-            r"C:\Users\asahm\Desktop\Asaad_HTW\Abschlussarbeit\Berichtserstellung_AI_Berater\wesentlichkeitsanalyse\Prompts\Matrialitätsbewrtung\wertschöpfungstest",
+            MATERIALITY_PROMPTS_DIR / "wertschöpfungstest",
             "r") as y:
         wertscho_test = y.read()
 
